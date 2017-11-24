@@ -11,8 +11,11 @@ import UIKit
 class ViewController: UIViewController
 {
   lazy var colorTool : ColorTools = ColorTools()
-        
-      
+    
+    @IBOutlet weak var AnimalButton: UIButton!
+    @IBOutlet weak var AlphabetButton: UIButton!
+    @IBOutlet weak var AdjectivesButton: UIButton!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
