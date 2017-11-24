@@ -14,6 +14,7 @@
 		20B05A1E1FC7C86500655E1F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20B05A1C1FC7C86500655E1F /* LaunchScreen.storyboard */; };
 		20B05A291FC7C86500655E1F /* ASLAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B05A281FC7C86500655E1F /* ASLAppTests.swift */; };
 		20B05A341FC7C86500655E1F /* ASLAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B05A331FC7C86500655E1F /* ASLAppUITests.swift */; };
+		20B05A461FC7C9D300655E1F /* ColorTools.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B05A451FC7C9D300655E1F /* ColorTools.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		20B05A2F1FC7C86500655E1F /* ASLAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ASLAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		20B05A331FC7C86500655E1F /* ASLAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ASLAppUITests.swift; sourceTree = "<group>"; };
 		20B05A351FC7C86500655E1F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		20B05A451FC7C9D300655E1F /* ColorTools.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorTools.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,12 +99,10 @@
 		20B05A121FC7C86500655E1F /* ASLApp */ = {
 			isa = PBXGroup;
 			children = (
-				20B05A131FC7C86500655E1F /* AppDelegate.swift */,
-				20B05A151FC7C86500655E1F /* ViewController.swift */,
-				20B05A171FC7C86500655E1F /* Main.storyboard */,
-				20B05A1A1FC7C86500655E1F /* Assets.xcassets */,
-				20B05A1C1FC7C86500655E1F /* LaunchScreen.storyboard */,
-				20B05A1F1FC7C86500655E1F /* Info.plist */,
+				20B05A441FC7C9A700655E1F /* Rescources */,
+				20B05A431FC7C91C00655E1F /* Model */,
+				20B05A421FC7C90500655E1F /* View */,
+				20B05A411FC7C8C700655E1F /* Controllers */,
 			);
 			path = ASLApp;
 			sourceTree = "<group>";
@@ -123,6 +123,41 @@
 				20B05A351FC7C86500655E1F /* Info.plist */,
 			);
 			path = ASLAppUITests;
+			sourceTree = "<group>";
+		};
+		20B05A411FC7C8C700655E1F /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				20B05A131FC7C86500655E1F /* AppDelegate.swift */,
+				20B05A151FC7C86500655E1F /* ViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		20B05A421FC7C90500655E1F /* View */ = {
+			isa = PBXGroup;
+			children = (
+				20B05A171FC7C86500655E1F /* Main.storyboard */,
+				20B05A1C1FC7C86500655E1F /* LaunchScreen.storyboard */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		20B05A431FC7C91C00655E1F /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				20B05A451FC7C9D300655E1F /* ColorTools.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		20B05A441FC7C9A700655E1F /* Rescources */ = {
+			isa = PBXGroup;
+			children = (
+				20B05A1A1FC7C86500655E1F /* Assets.xcassets */,
+				20B05A1F1FC7C86500655E1F /* Info.plist */,
+			);
+			path = Rescources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -260,6 +295,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				20B05A161FC7C86500655E1F /* ViewController.swift in Sources */,
+				20B05A461FC7C9D300655E1F /* ColorTools.swift in Sources */,
 				20B05A141FC7C86500655E1F /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
