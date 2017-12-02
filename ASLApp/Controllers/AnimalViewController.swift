@@ -17,7 +17,7 @@ class AnimalViewController : UIViewController
 
     @IBOutlet weak var TigerVideo: UIButton!
     @IBAction func TigerVideoButton(_ sender: Any)
-    { if let path = Bundle.main.path(forResource: "Tiger",ofType: "mov")
+    { if let path = Bundle.main.path(forResource: "Tiger", ofType: "mov")
     {
         let video = AVPlayer(url: URL(fileURLWithPath: path))
         let videoPlayer = AVPlayerViewController()
