@@ -88,7 +88,7 @@
 		20B05A071FC7C86400655E1F = {
 			isa = PBXGroup;
 			children = (
-				20E4890C1FD24B9F00DECA09 /* Animals */,
+				20E4890D1FD24BAA00DECA09 /* Tiger.mov */,
 				20B05A121FC7C86500655E1F /* ASLApp */,
 				20B05A271FC7C86500655E1F /* ASLAppTests */,
 				20B05A321FC7C86500655E1F /* ASLAppUITests */,
@@ -170,14 +170,6 @@
 				20B05A1F1FC7C86500655E1F /* Info.plist */,
 			);
 			path = Rescources;
-			sourceTree = "<group>";
-		};
-		20E4890C1FD24B9F00DECA09 /* Animals */ = {
-			isa = PBXGroup;
-			children = (
-				20E4890D1FD24BAA00DECA09 /* Tiger.mov */,
-			);
-			path = Animals;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
