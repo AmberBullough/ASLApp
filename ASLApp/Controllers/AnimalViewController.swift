@@ -15,7 +15,13 @@ class AnimalViewController : UIViewController
 {
     lazy var colorTool : ColorTools = ColorTools()
 
+<<<<<<< HEAD
     @IBAction func tigerVideoButton(_ sender: Any)
+=======
+    @IBOutlet weak var tigerVideo: UIButton!
+    @IBAction func tigerVideoButton(_ sender: Any)
+    { if let path = Bundle.main.path(forResource: "Tiger", ofType: "mov")
+>>>>>>> 5058883ed2aa854f3d89962e95301049414a8d98
     {
         //URL of the video
         if let path = Bundle.main.path(forResource: "Tiger", ofType: "mov")
