@@ -110,7 +110,7 @@
         <!--Animal View Controller-->
         <scene sceneID="2Xr-ix-03L">
             <objects>
-                <viewController id="ETh-9t-SCu" customClass="AnimalViewController" sceneMemberID="viewController">
+                <viewController id="ETh-9t-SCu" customClass="AnimalViewController" customModule="ASLApp" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Lvv-kS-hD6">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -140,16 +140,13 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Tiger Video"/>
                                 <connections>
-                                    <action selector="TigerVideoButton:" destination="ETh-9t-SCu" eventType="touchUpInside" id="hCn-87-iTg"/>
+                                    <action selector="tigerVideoButton:" destination="ETh-9t-SCu" eventType="touchUpInside" id="5Fy-nP-ge9"/>
                                 </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="Seh-c0-QJd"/>
                     </view>
-                    <connections>
-                        <outlet property="TigerVideo" destination="JTe-db-gLM" id="0e6-ya-XPz"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="nXH-tT-GkQ" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
