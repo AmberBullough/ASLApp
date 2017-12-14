@@ -10,6 +10,7 @@
 		2055EDF01FD798A20032DF71 /* A.mov in Resources */ = {isa = PBXBuildFile; fileRef = 2055EDEF1FD798A20032DF71 /* A.mov */; };
 		2055EDF21FD798AE0032DF71 /* B.mov in Resources */ = {isa = PBXBuildFile; fileRef = 2055EDF11FD798AE0032DF71 /* B.mov */; };
 		2055EDF41FD798B70032DF71 /* C.mov in Resources */ = {isa = PBXBuildFile; fileRef = 2055EDF31FD798B70032DF71 /* C.mov */; };
+		2055EDF61FE203050032DF71 /* PetsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2055EDF51FE203040032DF71 /* PetsViewController.swift */; };
 		207D5F4C1FC9E82500CB59A1 /* AlphabetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207D5F4B1FC9E82500CB59A1 /* AlphabetViewController.swift */; };
 		20B05A141FC7C86500655E1F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B05A131FC7C86500655E1F /* AppDelegate.swift */; };
 		20B05A161FC7C86500655E1F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B05A151FC7C86500655E1F /* ViewController.swift */; };
@@ -47,6 +48,7 @@
 		2055EDEF1FD798A20032DF71 /* A.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = A.mov; path = ../A.mov; sourceTree = "<group>"; };
 		2055EDF11FD798AE0032DF71 /* B.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = B.mov; path = ../B.mov; sourceTree = "<group>"; };
 		2055EDF31FD798B70032DF71 /* C.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = C.mov; path = ../C.mov; sourceTree = "<group>"; };
+		2055EDF51FE203040032DF71 /* PetsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PetsViewController.swift; sourceTree = "<group>"; };
 		207D5F4B1FC9E82500CB59A1 /* AlphabetViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlphabetViewController.swift; sourceTree = "<group>"; };
 		20B05A101FC7C86500655E1F /* ASLApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ASLApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20B05A131FC7C86500655E1F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -151,6 +153,7 @@
 				20B05A151FC7C86500655E1F /* ViewController.swift */,
 				20B05A471FC7CA8C00655E1F /* AnimalViewController.swift */,
 				207D5F4B1FC9E82500CB59A1 /* AlphabetViewController.swift */,
+				2055EDF51FE203040032DF71 /* PetsViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -326,6 +329,7 @@
 				20B05A461FC7C9D300655E1F /* ColorTools.swift in Sources */,
 				20B05A481FC7CA8C00655E1F /* AnimalViewController.swift in Sources */,
 				207D5F4C1FC9E82500CB59A1 /* AlphabetViewController.swift in Sources */,
+				2055EDF61FE203050032DF71 /* PetsViewController.swift in Sources */,
 				20B05A141FC7C86500655E1F /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
