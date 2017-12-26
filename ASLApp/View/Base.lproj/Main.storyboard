@@ -114,13 +114,71 @@
                     <view key="view" contentMode="scaleToFill" id="kbj-Lq-VSb">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pwi-Fg-XDo">
+                                <rect key="frame" x="21" y="27" width="81" height="55"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Dog"/>
+                                <connections>
+                                    <action selector="dogVideoButton:" destination="dUt-QZ-VRT" eventType="touchUpInside" id="04m-e8-l7d"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kq9-dN-Mxd">
+                                <rect key="frame" x="147" y="27" width="73" height="55"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Cat"/>
+                                <connections>
+                                    <action selector="catVideoButton:" destination="dUt-QZ-VRT" eventType="touchUpInside" id="qja-1o-bRB"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="D1a-VG-4NV">
+                                <rect key="frame" x="255" y="27" width="86" height="58"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Fish"/>
+                                <connections>
+                                    <action selector="fishVideoButton:" destination="dUt-QZ-VRT" eventType="touchUpInside" id="6dL-kl-nOq"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Z03-wm-a42">
+                                <rect key="frame" x="38" y="116" width="46" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Horse"/>
+                                <connections>
+                                    <action selector="horseVideoButton:" destination="dUt-QZ-VRT" eventType="touchUpInside" id="HoJ-SQ-zQR"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="im4-3o-dTi">
+                                <rect key="frame" x="275" y="116" width="46" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Bird"/>
+                                <connections>
+                                    <action selector="birdVideoButton:" destination="dUt-QZ-VRT" eventType="touchUpInside" id="gBQ-RY-EhH"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rZU-mb-hAF">
+                                <rect key="frame" x="38" y="197" width="46" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Turtle"/>
+                                <connections>
+                                    <action selector="turtleVideoButton:" destination="dUt-QZ-VRT" eventType="touchUpInside" id="N8Z-pw-oya"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="OiC-GF-CZv">
+                                <rect key="frame" x="155" y="107" width="64" height="39"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Hamster"/>
+                                <connections>
+                                    <action selector="hamsterVideoButton:" destination="dUt-QZ-VRT" eventType="touchUpInside" id="yoY-Lq-pxF"/>
+                                </connections>
+                            </button>
+                        </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="mf6-jw-gH8"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="V21-SZ-cIq" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-846" y="-1428"/>
+            <point key="canvasLocation" x="-847.20000000000005" y="-1428.0359820089957"/>
         </scene>
         <!--Animal View Controller-->
         <scene sceneID="2Xr-ix-03L">
