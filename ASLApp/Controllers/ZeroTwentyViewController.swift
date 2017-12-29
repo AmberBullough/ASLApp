@@ -1,8 +1,8 @@
 //
-//  PetsViewController.swift
+//  ZeroTwentyViewController.swift
 //  ASLApp
 //
-//  Created by Amber Bullough on 12/13/17.
+//  Created by Amber Bullough on 12/28/17.
 //  Copyright © 2017 Amber Bullough. All rights reserved.
 //
 
@@ -10,12 +10,13 @@ import UIKit
 import AVKit
 import AVFoundation
 
-class PetsViewController : UIViewController
+class ZeroTwentyViewController : UIViewController
 {
-    @IBAction func dogVideoButton(_ sender: Any)
+   
+     @IBAction func zeroVideoButton(_ sender: Any)
     {
         //URL of the video
-        if let path = Bundle.main.path(forResource: "Dog", ofType: "mov")
+        if let path = Bundle.main.path(forResource: "Zero", ofType: "mov")
         {
             // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
@@ -31,10 +32,11 @@ class PetsViewController : UIViewController
             
         }
     }
-    @IBAction func catVideoButton(_ sender: Any)
+
+    @IBAction func oneVideoButton(_ sender: Any)
     {
         //URL of the video
-        if let path = Bundle.main.path(forResource: "Cat", ofType: "mov")
+        if let path = Bundle.main.path(forResource: "One", ofType: "mov")
         {
             // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
@@ -50,10 +52,11 @@ class PetsViewController : UIViewController
             
         }
     }
-        @IBAction func fishVideoButton(_ sender: Any)
+        
+        @IBAction func twoVideoButton(_ sender: Any)
         {
             //URL of the video
-            if let path = Bundle.main.path(forResource: "Fish", ofType: "mov")
+            if let path = Bundle.main.path(forResource: "Two", ofType: "mov")
             {
                 // Accessing the video
                 let video = AVPlayer(url: URL(fileURLWithPath: path))
@@ -68,52 +71,52 @@ class PetsViewController : UIViewController
                 })
                 
             }
-    }
-
-    @IBAction func horseVideoButton(_ sender: Any)
-    {
-        //URL of the video
-        if let path = Bundle.main.path(forResource: "Horse", ofType: "mov")
+        }
+        
+        @IBAction func threeVideoButton(_ sender: Any)
         {
-            // Accessing the video
-            let video = AVPlayer(url: URL(fileURLWithPath: path))
-            //create video player
-            let videoPlayer = AVPlayerViewController()
-            videoPlayer.player = video
-            
-            //Shows the video
-            present(videoPlayer, animated: true, completion:
-                {
-                    video.play()
-            })
+            //URL of the video
+            if let path = Bundle.main.path(forResource: "Three", ofType: "mov")
+            {
+                // Accessing the video
+                let video = AVPlayer(url: URL(fileURLWithPath: path))
+                //create video player
+                let videoPlayer = AVPlayerViewController()
+                videoPlayer.player = video
+                
+                //Shows the video
+                present(videoPlayer, animated: true, completion:
+                    {
+                        video.play()
+                })
+                
+            }
             
         }
-    }
-
-
-    @IBAction func hamsterVideoButton(_ sender: Any)
-    {
-        //URL of the video
-        if let path = Bundle.main.path(forResource: "Hamster", ofType: "mov")
+    @IBAction func fourVideoButton(_ sender: Any)
         {
-            // Accessing the video
-            let video = AVPlayer(url: URL(fileURLWithPath: path))
-            //create video player
-            let videoPlayer = AVPlayerViewController()
-            videoPlayer.player = video
-            
-            //Shows the video
-            present(videoPlayer, animated: true, completion:
-                {
-                    video.play()
-            })
-            
+            //URL of the video
+            if let path = Bundle.main.path(forResource: "Four", ofType: "mov")
+            {
+                // Accessing the video
+                let video = AVPlayer(url: URL(fileURLWithPath: path))
+                //create video player
+                let videoPlayer = AVPlayerViewController()
+                videoPlayer.player = video
+                
+                //Shows the video
+                present(videoPlayer, animated: true, completion:
+                    {
+                        video.play()
+                })
+                
+            }
         }
-    }
-    @IBAction func birdVideoButton(_ sender: Any)
+    
+    @IBAction func fiveVideoButton(_ sender: Any)
     {
         //URL of the video
-        if let path = Bundle.main.path(forResource: "Bird", ofType: "mov")
+        if let path = Bundle.main.path(forResource: "Five", ofType: "mov")
         {
             // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
@@ -130,10 +133,10 @@ class PetsViewController : UIViewController
         }
     }
     
-    @IBAction func turtleVideoButton(_ sender: Any)
+    @IBAction func sixVideoButton(_ sender: Any)
     {
         //URL of the video
-        if let path = Bundle.main.path(forResource: "Turtle", ofType: "mov")
+        if let path = Bundle.main.path(forResource: "Six", ofType: "mov")
         {
             // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
@@ -148,5 +151,45 @@ class PetsViewController : UIViewController
             })
             
         }
-}
+    }
+    
+    @IBAction func sevenVideoButton(_ sender: Any)
+    {
+        //URL of the video
+        if let path = Bundle.main.path(forResource: "Seven", ofType: "mov")
+        {
+            // Accessing the video
+            let video = AVPlayer(url: URL(fileURLWithPath: path))
+            //create video player
+            let videoPlayer = AVPlayerViewController()
+            videoPlayer.player = video
+            
+            //Shows the video
+            present(videoPlayer, animated: true, completion:
+                {
+                    video.play()
+            })
+            
+        }
+        
+    }
+    @IBAction func eightVideoButton(_ sender: Any)
+    {
+        //URL of the video
+        if let path = Bundle.main.path(forResource: "Eight", ofType: "mov")
+        {
+            // Accessing the video
+            let video = AVPlayer(url: URL(fileURLWithPath: path))
+            //create video player
+            let videoPlayer = AVPlayerViewController()
+            videoPlayer.player = video
+            
+            //Shows the video
+            present(videoPlayer, animated: true, completion:
+                {
+                    video.play()
+            })
+            
+        }
+    }
 }

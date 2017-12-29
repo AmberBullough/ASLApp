@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		203D1D7A1FF5D17400FDC726 /* NumbersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203D1D791FF5D17400FDC726 /* NumbersViewController.swift */; };
+		203D1D7C1FF5D1BE00FDC726 /* ZeroTwentyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203D1D7B1FF5D1BE00FDC726 /* ZeroTwentyViewController.swift */; };
 		2055EDF01FD798A20032DF71 /* A.mov in Resources */ = {isa = PBXBuildFile; fileRef = 2055EDEF1FD798A20032DF71 /* A.mov */; };
 		2055EDF21FD798AE0032DF71 /* B.mov in Resources */ = {isa = PBXBuildFile; fileRef = 2055EDF11FD798AE0032DF71 /* B.mov */; };
 		2055EDF41FD798B70032DF71 /* C.mov in Resources */ = {isa = PBXBuildFile; fileRef = 2055EDF31FD798B70032DF71 /* C.mov */; };
@@ -45,6 +47,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		203D1D791FF5D17400FDC726 /* NumbersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumbersViewController.swift; sourceTree = "<group>"; };
+		203D1D7B1FF5D1BE00FDC726 /* ZeroTwentyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZeroTwentyViewController.swift; sourceTree = "<group>"; };
 		2055EDEF1FD798A20032DF71 /* A.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = A.mov; path = ../A.mov; sourceTree = "<group>"; };
 		2055EDF11FD798AE0032DF71 /* B.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = B.mov; path = ../B.mov; sourceTree = "<group>"; };
 		2055EDF31FD798B70032DF71 /* C.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = C.mov; path = ../C.mov; sourceTree = "<group>"; };
@@ -154,6 +158,8 @@
 				20B05A471FC7CA8C00655E1F /* AnimalViewController.swift */,
 				207D5F4B1FC9E82500CB59A1 /* AlphabetViewController.swift */,
 				2055EDF51FE203040032DF71 /* PetsViewController.swift */,
+				203D1D791FF5D17400FDC726 /* NumbersViewController.swift */,
+				203D1D7B1FF5D1BE00FDC726 /* ZeroTwentyViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -328,7 +334,9 @@
 				20B05A161FC7C86500655E1F /* ViewController.swift in Sources */,
 				20B05A461FC7C9D300655E1F /* ColorTools.swift in Sources */,
 				20B05A481FC7CA8C00655E1F /* AnimalViewController.swift in Sources */,
+				203D1D7C1FF5D1BE00FDC726 /* ZeroTwentyViewController.swift in Sources */,
 				207D5F4C1FC9E82500CB59A1 /* AlphabetViewController.swift in Sources */,
+				203D1D7A1FF5D17400FDC726 /* NumbersViewController.swift in Sources */,
 				2055EDF61FE203050032DF71 /* PetsViewController.swift in Sources */,
 				20B05A141FC7C86500655E1F /* AppDelegate.swift in Sources */,
 			);
