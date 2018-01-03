@@ -24,6 +24,8 @@
 		2071DE141FFB220D00BC8AEC /* HundredTenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2071DE131FFB220D00BC8AEC /* HundredTenViewController.swift */; };
 		2071DE161FFB234000BC8AEC /* HundredsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2071DE151FFB234000BC8AEC /* HundredsViewController.swift */; };
 		2071DE181FFB236A00BC8AEC /* ThousandUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2071DE171FFB236A00BC8AEC /* ThousandUpViewController.swift */; };
+		2071DE1A1FFB375F00BC8AEC /* FarmAnimalsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2071DE191FFB375F00BC8AEC /* FarmAnimalsViewController.swift */; };
+		2071DE1C1FFD977E00BC8AEC /* ColorsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2071DE1B1FFD977E00BC8AEC /* ColorsViewController.swift */; };
 		207D5F4C1FC9E82500CB59A1 /* AlphabetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207D5F4B1FC9E82500CB59A1 /* AlphabetViewController.swift */; };
 		20B05A141FC7C86500655E1F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B05A131FC7C86500655E1F /* AppDelegate.swift */; };
 		20B05A161FC7C86500655E1F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B05A151FC7C86500655E1F /* ViewController.swift */; };
@@ -75,6 +77,8 @@
 		2071DE131FFB220D00BC8AEC /* HundredTenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HundredTenViewController.swift; sourceTree = "<group>"; };
 		2071DE151FFB234000BC8AEC /* HundredsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HundredsViewController.swift; sourceTree = "<group>"; };
 		2071DE171FFB236A00BC8AEC /* ThousandUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThousandUpViewController.swift; sourceTree = "<group>"; };
+		2071DE191FFB375F00BC8AEC /* FarmAnimalsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FarmAnimalsViewController.swift; sourceTree = "<group>"; };
+		2071DE1B1FFD977E00BC8AEC /* ColorsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsViewController.swift; sourceTree = "<group>"; };
 		207D5F4B1FC9E82500CB59A1 /* AlphabetViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlphabetViewController.swift; sourceTree = "<group>"; };
 		20B05A101FC7C86500655E1F /* ASLApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ASLApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20B05A131FC7C86500655E1F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -193,6 +197,8 @@
 				2071DE131FFB220D00BC8AEC /* HundredTenViewController.swift */,
 				2071DE151FFB234000BC8AEC /* HundredsViewController.swift */,
 				2071DE171FFB236A00BC8AEC /* ThousandUpViewController.swift */,
+				2071DE191FFB375F00BC8AEC /* FarmAnimalsViewController.swift */,
+				2071DE1B1FFD977E00BC8AEC /* ColorsViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -368,8 +374,10 @@
 				2071DE181FFB236A00BC8AEC /* ThousandUpViewController.swift in Sources */,
 				2071DE121FF6F98B00BC8AEC /* NinetyOneHundredViewController.swift in Sources */,
 				20B05A161FC7C86500655E1F /* ViewController.swift in Sources */,
+				2071DE1A1FFB375F00BC8AEC /* FarmAnimalsViewController.swift in Sources */,
 				20B05A461FC7C9D300655E1F /* ColorTools.swift in Sources */,
 				20B05A481FC7CA8C00655E1F /* AnimalViewController.swift in Sources */,
+				2071DE1C1FFD977E00BC8AEC /* ColorsViewController.swift in Sources */,
 				2071DE0E1FF6F8F200BC8AEC /* SeventyOneEightyViewController.swift in Sources */,
 				203D1D7C1FF5D1BE00FDC726 /* ZeroTwentyViewController.swift in Sources */,
 				207D5F4C1FC9E82500CB59A1 /* AlphabetViewController.swift in Sources */,
