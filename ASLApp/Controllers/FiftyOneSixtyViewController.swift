@@ -34,16 +34,11 @@ class FiftyOneSixyViewController : UIViewController
     
     @IBAction func fiftyTwoVideoButton(_ sender: Any)
     {
-        //URL of the video
         if let path = Bundle.main.path(forResource: "FiftyTwo", ofType: "mov")
         {
-            // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
-            //create video player
             let videoPlayer = AVPlayerViewController()
             videoPlayer.player = video
-            
-            //Shows the video
             present(videoPlayer, animated: true, completion:
                 {
                     video.play()
@@ -57,13 +52,9 @@ class FiftyOneSixyViewController : UIViewController
         //URL of the video
         if let path = Bundle.main.path(forResource: "FiftyThree", ofType: "mov")
         {
-            // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
-            //create video player
             let videoPlayer = AVPlayerViewController()
             videoPlayer.player = video
-            
-            //Shows the video
             present(videoPlayer, animated: true, completion:
                 {
                     video.play()
@@ -74,16 +65,11 @@ class FiftyOneSixyViewController : UIViewController
     
     @IBAction func fiftyFourVideoButton(_ sender: Any)
     {
-        //URL of the video
         if let path = Bundle.main.path(forResource: "FiftyFour", ofType: "mov")
         {
-            // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
-            //create video player
             let videoPlayer = AVPlayerViewController()
             videoPlayer.player = video
-            
-            //Shows the video
             present(videoPlayer, animated: true, completion:
                 {
                     video.play()
@@ -92,18 +78,14 @@ class FiftyOneSixyViewController : UIViewController
         }
         
     }
+    
     @IBAction func fiftyFiveVideoButton(_ sender: Any)
     {
-        //URL of the video
         if let path = Bundle.main.path(forResource: "FiftyFive", ofType: "mov")
         {
-            // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
-            //create video player
             let videoPlayer = AVPlayerViewController()
             videoPlayer.player = video
-            
-            //Shows the video
             present(videoPlayer, animated: true, completion:
                 {
                     video.play()
@@ -114,16 +96,11 @@ class FiftyOneSixyViewController : UIViewController
     
     @IBAction func fiftySixVideoButton(_ sender: Any)
     {
-        //URL of the video
         if let path = Bundle.main.path(forResource: "FiftySix", ofType: "mov")
         {
-            // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
-            //create video player
             let videoPlayer = AVPlayerViewController()
             videoPlayer.player = video
-            
-            //Shows the video
             present(videoPlayer, animated: true, completion:
                 {
                     video.play()
@@ -134,16 +111,11 @@ class FiftyOneSixyViewController : UIViewController
     
     @IBAction func fiftySevenVideoButton(_ sender: Any)
     {
-        //URL of the video
         if let path = Bundle.main.path(forResource: "FiftySeven", ofType: "mov")
         {
-            // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
-            //create video player
             let videoPlayer = AVPlayerViewController()
             videoPlayer.player = video
-            
-            //Shows the video
             present(videoPlayer, animated: true, completion:
                 {
                     video.play()
@@ -154,16 +126,11 @@ class FiftyOneSixyViewController : UIViewController
     
     @IBAction func fiftyEightVideoButton(_ sender: Any)
     {
-        //URL of the video
         if let path = Bundle.main.path(forResource: "FiftyEight", ofType: "mov")
         {
-            // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
-            //create video player
             let videoPlayer = AVPlayerViewController()
             videoPlayer.player = video
-            
-            //Shows the video
             present(videoPlayer, animated: true, completion:
                 {
                     video.play()
@@ -172,18 +139,14 @@ class FiftyOneSixyViewController : UIViewController
         }
         
     }
+    
     @IBAction func fiftyNineVideoButton(_ sender: Any)
     {
-        //URL of the video
         if let path = Bundle.main.path(forResource: "FiftyNine", ofType: "mov")
         {
-            // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
-            //create video player
             let videoPlayer = AVPlayerViewController()
             videoPlayer.player = video
-            
-            //Shows the video
             present(videoPlayer, animated: true, completion:
                 {
                     video.play()
@@ -194,16 +157,11 @@ class FiftyOneSixyViewController : UIViewController
     
     @IBAction func sixtyVideoButton(_ sender: Any)
     {
-        //URL of the video
         if let path = Bundle.main.path(forResource: "Sixty", ofType: "mov")
         {
-            // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
-            //create video player
             let videoPlayer = AVPlayerViewController()
             videoPlayer.player = video
-            
-            //Shows the video
             present(videoPlayer, animated: true, completion:
                 {
                     video.play()

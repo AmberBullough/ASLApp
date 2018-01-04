@@ -34,16 +34,11 @@ class ThirtyOneFortyViewController : UIViewController
     
     @IBAction func thirtyTwoVideoButton(_ sender: Any)
     {
-        //URL of the video
         if let path = Bundle.main.path(forResource: "ThirtyTwo", ofType: "mov")
         {
-            // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
-            //create video player
             let videoPlayer = AVPlayerViewController()
             videoPlayer.player = video
-            
-            //Shows the video
             present(videoPlayer, animated: true, completion:
                 {
                     video.play()
@@ -54,16 +49,11 @@ class ThirtyOneFortyViewController : UIViewController
     
     @IBAction func thirtyThreeVideoButton(_ sender: Any)
     {
-        //URL of the video
         if let path = Bundle.main.path(forResource: "ThirtyThree", ofType: "mov")
         {
-            // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
-            //create video player
             let videoPlayer = AVPlayerViewController()
             videoPlayer.player = video
-            
-            //Shows the video
             present(videoPlayer, animated: true, completion:
                 {
                     video.play()
@@ -74,16 +64,11 @@ class ThirtyOneFortyViewController : UIViewController
     
     @IBAction func thirtyFourVideoButton(_ sender: Any)
     {
-        //URL of the video
         if let path = Bundle.main.path(forResource: "ThirtyFour", ofType: "mov")
         {
-            // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
-            //create video player
             let videoPlayer = AVPlayerViewController()
             videoPlayer.player = video
-            
-            //Shows the video
             present(videoPlayer, animated: true, completion:
                 {
                     video.play()
@@ -92,18 +77,14 @@ class ThirtyOneFortyViewController : UIViewController
         }
         
     }
+    
     @IBAction func thirtyFiveVideoButton(_ sender: Any)
     {
-        //URL of the video
         if let path = Bundle.main.path(forResource: "ThirtyFive", ofType: "mov")
         {
-            // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
-            //create video player
             let videoPlayer = AVPlayerViewController()
             videoPlayer.player = video
-            
-            //Shows the video
             present(videoPlayer, animated: true, completion:
                 {
                     video.play()
@@ -114,16 +95,11 @@ class ThirtyOneFortyViewController : UIViewController
     
     @IBAction func thirtySixVideoButton(_ sender: Any)
     {
-        //URL of the video
         if let path = Bundle.main.path(forResource: "ThirtySix", ofType: "mov")
         {
-            // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
-            //create video player
             let videoPlayer = AVPlayerViewController()
             videoPlayer.player = video
-            
-            //Shows the video
             present(videoPlayer, animated: true, completion:
                 {
                     video.play()
@@ -134,16 +110,11 @@ class ThirtyOneFortyViewController : UIViewController
     
     @IBAction func thirtySevenVideoButton(_ sender: Any)
     {
-        //URL of the video
         if let path = Bundle.main.path(forResource: "ThirtySeven", ofType: "mov")
         {
-            // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
-            //create video player
             let videoPlayer = AVPlayerViewController()
             videoPlayer.player = video
-            
-            //Shows the video
             present(videoPlayer, animated: true, completion:
                 {
                     video.play()
@@ -154,16 +125,11 @@ class ThirtyOneFortyViewController : UIViewController
     
     @IBAction func thirtyEightVideoButton(_ sender: Any)
     {
-        //URL of the video
         if let path = Bundle.main.path(forResource: "ThirtyEight", ofType: "mov")
         {
-            // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
-            //create video player
             let videoPlayer = AVPlayerViewController()
             videoPlayer.player = video
-            
-            //Shows the video
             present(videoPlayer, animated: true, completion:
                 {
                     video.play()
@@ -172,18 +138,15 @@ class ThirtyOneFortyViewController : UIViewController
         }
         
     }
+    
     @IBAction func thirtyNineVideoButton(_ sender: Any)
     {
-        //URL of the video
+
         if let path = Bundle.main.path(forResource: "ThirtyNine", ofType: "mov")
         {
-            // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
-            //create video player
             let videoPlayer = AVPlayerViewController()
             videoPlayer.player = video
-            
-            //Shows the video
             present(videoPlayer, animated: true, completion:
                 {
                     video.play()
@@ -192,18 +155,13 @@ class ThirtyOneFortyViewController : UIViewController
         }
     }
     
-    @IBAction func FortyVideoButton(_ sender: Any)
+    @IBAction func fortyVideoButton(_ sender: Any)
     {
-        //URL of the video
         if let path = Bundle.main.path(forResource: "Forty", ofType: "mov")
         {
-            // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
-            //create video player
             let videoPlayer = AVPlayerViewController()
             videoPlayer.player = video
-            
-            //Shows the video
             present(videoPlayer, animated: true, completion:
                 {
                     video.play()
