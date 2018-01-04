@@ -37,7 +37,6 @@
 		20B05A461FC7C9D300655E1F /* ColorTools.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B05A451FC7C9D300655E1F /* ColorTools.swift */; };
 		20B05A481FC7CA8C00655E1F /* AnimalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B05A471FC7CA8C00655E1F /* AnimalViewController.swift */; };
 		20E4890E1FD24BBC00DECA09 /* Tiger.mov in Resources */ = {isa = PBXBuildFile; fileRef = 20E4890D1FD24BAA00DECA09 /* Tiger.mov */; };
-		20E4890F1FD2524A00DECA09 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 20B05A1F1FC7C86500655E1F /* Info.plist */; };
 		20E489101FD2524B00DECA09 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 20B05A1F1FC7C86500655E1F /* Info.plist */; };
 		20E489111FD2524C00DECA09 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 20B05A1F1FC7C86500655E1F /* Info.plist */; };
 /* End PBXBuildFile section */
@@ -292,7 +291,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0910;
-				LastUpgradeCheck = 0910;
+				LastUpgradeCheck = 0920;
 				ORGANIZATIONNAME = "Amber Bullough";
 				TargetAttributes = {
 					20B05A0F1FC7C86500655E1F = {
@@ -342,7 +341,6 @@
 				20E4890E1FD24BBC00DECA09 /* Tiger.mov in Resources */,
 				20B05A1E1FC7C86500655E1F /* LaunchScreen.storyboard in Resources */,
 				20B05A1B1FC7C86500655E1F /* Assets.xcassets in Resources */,
-				20E4890F1FD2524A00DECA09 /* Info.plist in Resources */,
 				20B05A191FC7C86500655E1F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
