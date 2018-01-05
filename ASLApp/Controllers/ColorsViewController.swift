@@ -10,8 +10,10 @@ import UIKit
 import AVKit
 import AVFoundation
 
+
 class ColorsViewController : UIViewController
 {
+    
     @IBAction func redVideoButton(_ sender: Any)
     {
         if let path = Bundle.main.path(forResource: "Red", ofType: "mov")
@@ -165,5 +167,30 @@ class ColorsViewController : UIViewController
             })
             
         }
+    }
+    
+    @IBOutlet weak var clickButton : UIButton!
+    @IBAction func clickButton(_ sender: UIButton)
+    {
+        if (clickButton.backgroundColor == .orange)
+        {
+            clickButton.backgroundColor = .black
+        }
+        else
+        {
+           clickButton.backgroundColor = .orange
+        }
+        view.backgroundColor = createRandomColor()
+    }
+    
+    private func createRandomColor() -> UIColor
+    {
+        let newColor :UIColor
+        let redAmount = CGFloat(Double (arc4random_uniform(256))/255.00)
+        let greenAmount = CGFloat (Double(arc4random_uniform(256))/255.00)
+        let blueAmount = CGFloat(Double (arc4random_uniform(256))/255.00)
+        newColor = UIColor(red: redAmount, green:greenAmount, blue: blueAmount, alpha: CGFloat(1.0))
+        
+        return newColor
     }
 }
