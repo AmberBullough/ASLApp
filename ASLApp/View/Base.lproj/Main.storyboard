@@ -1802,8 +1802,9 @@
                                 <rect key="frame" x="16" y="102" width="343" height="40"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
-                                <state key="normal" title="Twenty-Two (22)"/>
+                                <state key="normal" title="Seventy-Two (72)"/>
                                 <connections>
+                                    <action selector="seventyTwoVideoButton:" destination="K1q-dH-ewI" eventType="touchUpInside" id="fPD-a5-6b0"/>
                                     <action selector="twentyTwoVideoButton:" destination="qld-v2-VjX" eventType="touchUpInside" id="1CW-ww-It9"/>
                                 </connections>
                             </button>
@@ -1811,8 +1812,9 @@
                                 <rect key="frame" x="23" y="54" width="343" height="40"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
-                                <state key="normal" title="Twenty-One (21)"/>
+                                <state key="normal" title="Seventy-One (71)"/>
                                 <connections>
+                                    <action selector="seventyOneVideoButton:" destination="K1q-dH-ewI" eventType="touchUpInside" id="9kz-OH-kTZ"/>
                                     <action selector="twentyOneVideoButton:" destination="qld-v2-VjX" eventType="touchUpInside" id="a55-aJ-gJU"/>
                                 </connections>
                             </button>
@@ -1820,8 +1822,9 @@
                                 <rect key="frame" x="16" y="253" width="343" height="47"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
-                                <state key="normal" title="Twenty-Five (25)"/>
+                                <state key="normal" title="Seventy-Five (75)"/>
                                 <connections>
+                                    <action selector="seventyFiveVideoButton:" destination="K1q-dH-ewI" eventType="touchUpInside" id="jXa-5a-Wwk"/>
                                     <action selector="twentyFiveVideoButton:" destination="qld-v2-VjX" eventType="touchUpInside" id="fS2-gc-Jjx"/>
                                 </connections>
                             </button>
@@ -1829,8 +1832,9 @@
                                 <rect key="frame" x="16" y="303" width="343" height="47"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
-                                <state key="normal" title="Twenty-Six (26)"/>
+                                <state key="normal" title="Seventy-Six (76)"/>
                                 <connections>
+                                    <action selector="seventySixVideoButton:" destination="K1q-dH-ewI" eventType="touchUpInside" id="clk-ZJ-dl9"/>
                                     <action selector="twentySixVideoButton:" destination="qld-v2-VjX" eventType="touchUpInside" id="xD0-MV-66A"/>
                                 </connections>
                             </button>
@@ -1838,8 +1842,9 @@
                                 <rect key="frame" x="16" y="198" width="343" height="47"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
-                                <state key="normal" title="Twenty-Four (24)"/>
+                                <state key="normal" title="Seventy-Four (74)"/>
                                 <connections>
+                                    <action selector="seventyFourVideoButton:" destination="K1q-dH-ewI" eventType="touchUpInside" id="rR2-Ok-cAr"/>
                                     <action selector="twentyFourVideoButton:" destination="qld-v2-VjX" eventType="touchUpInside" id="9VX-t3-CcK"/>
                                 </connections>
                             </button>
@@ -1847,8 +1852,10 @@
                                 <rect key="frame" x="16" y="346" width="343" height="47"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
-                                <state key="normal" title="Twenty-Seven (27)"/>
+                                <state key="normal" title="Seventy-Seven (77)"/>
                                 <connections>
+                                    <action selector="seventyEightVideoButton:" destination="K1q-dH-ewI" eventType="touchUpInside" id="kRq-jJ-BI6"/>
+                                    <action selector="seventySevenVideoButton:" destination="K1q-dH-ewI" eventType="touchUpInside" id="QZ8-pA-brD"/>
                                     <action selector="twentySevenVideoButton:" destination="qld-v2-VjX" eventType="touchUpInside" id="Zxe-LS-AJ4"/>
                                 </connections>
                             </button>
@@ -1856,7 +1863,7 @@
                                 <rect key="frame" x="16" y="401" width="343" height="47"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
-                                <state key="normal" title="Twenty-Eight (28)"/>
+                                <state key="normal" title="Seventy-Eight (78)"/>
                                 <connections>
                                     <action selector="twentyEightVideoButton:" destination="qld-v2-VjX" eventType="touchUpInside" id="OOC-S4-yMi"/>
                                 </connections>
@@ -1865,8 +1872,9 @@
                                 <rect key="frame" x="16" y="456" width="343" height="47"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
-                                <state key="normal" title="Twenty-Nine (29)"/>
+                                <state key="normal" title="Seventy-Nine (79)"/>
                                 <connections>
+                                    <action selector="seventyNineVideoButton:" destination="K1q-dH-ewI" eventType="touchUpInside" id="7ul-Xv-90w"/>
                                     <action selector="twentyNineVideoButton:" destination="qld-v2-VjX" eventType="touchUpInside" id="TKr-ql-SqC"/>
                                 </connections>
                             </button>
@@ -1874,8 +1882,9 @@
                                 <rect key="frame" x="16" y="511" width="343" height="47"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
-                                <state key="normal" title="Thirty (30)"/>
+                                <state key="normal" title="Eighty (80)"/>
                                 <connections>
+                                    <action selector="eightyVideoButton:" destination="K1q-dH-ewI" eventType="touchUpInside" id="nxU-Ah-Zyh"/>
                                     <action selector="thirtyVideoButton:" destination="qld-v2-VjX" eventType="touchUpInside" id="SOI-tE-9jQ"/>
                                 </connections>
                             </button>
@@ -1883,8 +1892,9 @@
                                 <rect key="frame" x="16" y="150" width="343" height="40"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
-                                <state key="normal" title="Twenty-Three (23)"/>
+                                <state key="normal" title="Seventy-Three (73)"/>
                                 <connections>
+                                    <action selector="seventyThreeVideoButton:" destination="K1q-dH-ewI" eventType="touchUpInside" id="gsP-6Z-TbQ"/>
                                     <action selector="twentyThreeVideoButton:" destination="qld-v2-VjX" eventType="touchUpInside" id="mEu-88-gvi"/>
                                 </connections>
                             </button>
@@ -2340,7 +2350,7 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="XbJ-e1-vud"/>
+        <segue reference="8Vp-dq-cvT"/>
         <segue reference="WUG-96-PB4"/>
     </inferredMetricsTieBreakers>
 </document>

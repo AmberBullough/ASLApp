@@ -34,16 +34,11 @@ class SeventyOneEightyViewController : UIViewController
     
     @IBAction func seventyTwoVideoButton(_ sender: Any)
     {
-        //URL of the video
         if let path = Bundle.main.path(forResource: "SeventyTwo", ofType: "mov")
         {
-            // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
-            //create video player
             let videoPlayer = AVPlayerViewController()
             videoPlayer.player = video
-            
-            //Shows the video
             present(videoPlayer, animated: true, completion:
                 {
                     video.play()
@@ -54,16 +49,11 @@ class SeventyOneEightyViewController : UIViewController
     
     @IBAction func seventyThreeVideoButton(_ sender: Any)
     {
-        //URL of the video
         if let path = Bundle.main.path(forResource: "SeventyThree", ofType: "mov")
         {
-            // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
-            //create video player
             let videoPlayer = AVPlayerViewController()
             videoPlayer.player = video
-            
-            //Shows the video
             present(videoPlayer, animated: true, completion:
                 {
                     video.play()
@@ -74,16 +64,11 @@ class SeventyOneEightyViewController : UIViewController
     
     @IBAction func seventyFourVideoButton(_ sender: Any)
     {
-        //URL of the video
         if let path = Bundle.main.path(forResource: "SeventyFour", ofType: "mov")
         {
-            // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
-            //create video player
             let videoPlayer = AVPlayerViewController()
             videoPlayer.player = video
-            
-            //Shows the video
             present(videoPlayer, animated: true, completion:
                 {
                     video.play()
@@ -92,18 +77,14 @@ class SeventyOneEightyViewController : UIViewController
         }
         
     }
+    
     @IBAction func seventyFiveVideoButton(_ sender: Any)
     {
-        //URL of the video
         if let path = Bundle.main.path(forResource: "SeventyFive", ofType: "mov")
         {
-            // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
-            //create video player
             let videoPlayer = AVPlayerViewController()
             videoPlayer.player = video
-            
-            //Shows the video
             present(videoPlayer, animated: true, completion:
                 {
                     video.play()
@@ -114,16 +95,11 @@ class SeventyOneEightyViewController : UIViewController
     
     @IBAction func seventySixVideoButton(_ sender: Any)
     {
-        //URL of the video
         if let path = Bundle.main.path(forResource: "SeventySix", ofType: "mov")
         {
-            // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
-            //create video player
             let videoPlayer = AVPlayerViewController()
             videoPlayer.player = video
-            
-            //Shows the video
             present(videoPlayer, animated: true, completion:
                 {
                     video.play()
@@ -134,16 +110,11 @@ class SeventyOneEightyViewController : UIViewController
     
     @IBAction func seventySevenVideoButton(_ sender: Any)
     {
-        //URL of the video
         if let path = Bundle.main.path(forResource: "SeventySeven", ofType: "mov")
         {
-            // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
-            //create video player
             let videoPlayer = AVPlayerViewController()
             videoPlayer.player = video
-            
-            //Shows the video
             present(videoPlayer, animated: true, completion:
                 {
                     video.play()
@@ -152,18 +123,13 @@ class SeventyOneEightyViewController : UIViewController
         }
     }
     
-    @IBAction func SeventyEightVideoButton(_ sender: Any)
+    @IBAction func seventyEightVideoButton(_ sender: Any)
     {
-        //URL of the video
         if let path = Bundle.main.path(forResource: "SeventyEight", ofType: "mov")
         {
-            // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
-            //create video player
             let videoPlayer = AVPlayerViewController()
             videoPlayer.player = video
-            
-            //Shows the video
             present(videoPlayer, animated: true, completion:
                 {
                     video.play()
@@ -172,18 +138,14 @@ class SeventyOneEightyViewController : UIViewController
         }
         
     }
+    
     @IBAction func seventyNineVideoButton(_ sender: Any)
     {
-        //URL of the video
         if let path = Bundle.main.path(forResource: "SeventyNine", ofType: "mov")
         {
-            // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
-            //create video player
             let videoPlayer = AVPlayerViewController()
             videoPlayer.player = video
-            
-            //Shows the video
             present(videoPlayer, animated: true, completion:
                 {
                     video.play()
@@ -192,18 +154,13 @@ class SeventyOneEightyViewController : UIViewController
         }
     }
     
-    @IBAction func EightyVideoButton(_ sender: Any)
+    @IBAction func eightyVideoButton(_ sender: Any)
     {
-        //URL of the video
         if let path = Bundle.main.path(forResource: "Eighty", ofType: "mov")
         {
-            // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
-            //create video player
             let videoPlayer = AVPlayerViewController()
             videoPlayer.player = video
-            
-            //Shows the video
             present(videoPlayer, animated: true, completion:
                 {
                     video.play()
