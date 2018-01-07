@@ -93,6 +93,7 @@ class ZeroTwentyViewController : UIViewController
             }
             
         }
+    
     @IBAction func fourVideoButton(_ sender: Any)
         {
             //URL of the video
@@ -173,6 +174,7 @@ class ZeroTwentyViewController : UIViewController
         }
         
     }
+    
     @IBAction func eightVideoButton(_ sender: Any)
     {
         //URL of the video
@@ -372,6 +374,7 @@ class ZeroTwentyViewController : UIViewController
             
         }
     }
+    
     @IBAction func eighteenVideoButton(_ sender: Any)
     {
         //URL of the video
@@ -391,6 +394,7 @@ class ZeroTwentyViewController : UIViewController
             
         }
     }
+    
     @IBAction func nineteenVideoButton(_ sender: Any)
     {
         //URL of the video
