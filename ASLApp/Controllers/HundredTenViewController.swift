@@ -12,9 +12,10 @@ import AVFoundation
 
 class HundredTenViewController : UIViewController
 {
-    @IBAction func eightyOneVideoButton(_ sender: Any)
+    
+    @IBAction func oneHundredOneVideoButton(_ sender: Any)
     {
-        if let path = Bundle.main.path(forResource: "EightyOne", ofType: "mov")
+        if let path = Bundle.main.path(forResource: "OneHundredOne", ofType: "mov")
         {
             let video = AVPlayer(url: URL(fileURLWithPath: path))
             let videoPlayer = AVPlayerViewController()
@@ -27,9 +28,9 @@ class HundredTenViewController : UIViewController
         }
     }
     
-    @IBAction func eightyTwoVideoButton(_ sender: Any)
+    @IBAction func oneHundredTwoVideoButton(_ sender: Any)
     {
-        if let path = Bundle.main.path(forResource: "EightyTwo", ofType: "mov")
+        if let path = Bundle.main.path(forResource: "OneHundredTwo", ofType: "mov")
         {
             let video = AVPlayer(url: URL(fileURLWithPath: path))
             let videoPlayer = AVPlayerViewController()
@@ -42,9 +43,9 @@ class HundredTenViewController : UIViewController
         }
     }
     
-    @IBAction func eightyThreeVideoButton(_ sender: Any)
+    @IBAction func oneHundredThreeVideoButton(_ sender: Any)
     {
-        if let path = Bundle.main.path(forResource: "EightyThree", ofType: "mov")
+        if let path = Bundle.main.path(forResource: "OneHundredThree", ofType: "mov")
         {
             let video = AVPlayer(url: URL(fileURLWithPath: path))
             let videoPlayer = AVPlayerViewController()
@@ -57,70 +58,9 @@ class HundredTenViewController : UIViewController
         }
     }
     
-    @IBAction func eightyFourVideoButton(_ sender: Any)
+    @IBAction func oneHundredFourVideoButton(_ sender: Any)
     {
-        if let path = Bundle.main.path(forResource: "EightyFour", ofType: "mov")
-        {
-            let video = AVPlayer(url: URL(fileURLWithPath: path))
-            let videoPlayer = AVPlayerViewController()
-            videoPlayer.player = video
-            present(videoPlayer, animated: true, completion:
-                {
-                    video.play()
-            })
-            
-        }
-        
-    }
-    
-    @IBAction func eightyFiveVideoButton(_ sender: Any)
-    {
-        if let path = Bundle.main.path(forResource: "EightyFive", ofType: "mov")
-        {
-            let video = AVPlayer(url: URL(fileURLWithPath: path))
-            let videoPlayer = AVPlayerViewController()
-            videoPlayer.player = video
-            present(videoPlayer, animated: true, completion:
-                {
-                    video.play()
-            })
-            
-        }
-    }
-    
-    @IBAction func eightySixVideoButton(_ sender: Any)
-    {
-        if let path = Bundle.main.path(forResource: "EightySix", ofType: "mov")
-        {
-            let video = AVPlayer(url: URL(fileURLWithPath: path))
-            let videoPlayer = AVPlayerViewController()
-            videoPlayer.player = video
-            present(videoPlayer, animated: true, completion:
-                {
-                    video.play()
-            })
-            
-        }
-    }
-    
-    @IBAction func eightySevenVideoButton(_ sender: Any)
-    {
-        if let path = Bundle.main.path(forResource: "EightySeven", ofType: "mov")
-        {
-            let video = AVPlayer(url: URL(fileURLWithPath: path))
-            let videoPlayer = AVPlayerViewController()
-            videoPlayer.player = video
-            present(videoPlayer, animated: true, completion:
-                {
-                    video.play()
-            })
-            
-        }
-    }
-    
-    @IBAction func eightyEightVideoButton(_ sender: Any)
-    {
-        if let path = Bundle.main.path(forResource: "EightyEight", ofType: "mov")
+        if let path = Bundle.main.path(forResource: "OneHundredFour", ofType: "mov")
         {
             let video = AVPlayer(url: URL(fileURLWithPath: path))
             let videoPlayer = AVPlayerViewController()
@@ -134,9 +74,9 @@ class HundredTenViewController : UIViewController
         
     }
     
-    @IBAction func eightyNineVideoButton(_ sender: Any)
+    @IBAction func oneHundredFiveVideoButton(_ sender: Any)
     {
-        if let path = Bundle.main.path(forResource: "EightyNine", ofType: "mov")
+        if let path = Bundle.main.path(forResource: "OneHundredFive", ofType: "mov")
         {
             let video = AVPlayer(url: URL(fileURLWithPath: path))
             let videoPlayer = AVPlayerViewController()
@@ -149,9 +89,70 @@ class HundredTenViewController : UIViewController
         }
     }
     
-    @IBAction func ninetyVideoButton(_ sender: Any)
+    @IBAction func oneHundredSixVideoButton(_ sender: Any)
     {
-        if let path = Bundle.main.path(forResource: "Ninety", ofType: "mov")
+        if let path = Bundle.main.path(forResource: "OneHundredSix", ofType: "mov")
+        {
+            let video = AVPlayer(url: URL(fileURLWithPath: path))
+            let videoPlayer = AVPlayerViewController()
+            videoPlayer.player = video
+            present(videoPlayer, animated: true, completion:
+                {
+                    video.play()
+            })
+            
+        }
+    }
+    
+    @IBAction func oneHundredSevenVideoButton(_ sender: Any)
+    {
+        if let path = Bundle.main.path(forResource: "OneHundredSeven", ofType: "mov")
+        {
+            let video = AVPlayer(url: URL(fileURLWithPath: path))
+            let videoPlayer = AVPlayerViewController()
+            videoPlayer.player = video
+            present(videoPlayer, animated: true, completion:
+                {
+                    video.play()
+            })
+            
+        }
+    }
+    
+    @IBAction func oneHundredEightVideoButton(_ sender: Any)
+    {
+        if let path = Bundle.main.path(forResource: "OneHundredEight", ofType: "mov")
+        {
+            let video = AVPlayer(url: URL(fileURLWithPath: path))
+            let videoPlayer = AVPlayerViewController()
+            videoPlayer.player = video
+            present(videoPlayer, animated: true, completion:
+                {
+                    video.play()
+            })
+            
+        }
+        
+    }
+    
+    @IBAction func oneHundredNineVideoButton(_ sender: Any)
+    {
+        if let path = Bundle.main.path(forResource: "OneHundredNine", ofType: "mov")
+        {
+            let video = AVPlayer(url: URL(fileURLWithPath: path))
+            let videoPlayer = AVPlayerViewController()
+            videoPlayer.player = video
+            present(videoPlayer, animated: true, completion:
+                {
+                    video.play()
+            })
+            
+        }
+    }
+    
+    @IBAction func oneHundredTenVideoButton(_ sender: Any)
+    {
+        if let path = Bundle.main.path(forResource: "OneHundredTen", ofType: "mov")
         {
             let video = AVPlayer(url: URL(fileURLWithPath: path))
             let videoPlayer = AVPlayerViewController()
