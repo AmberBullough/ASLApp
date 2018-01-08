@@ -9,9 +9,6 @@
 /* Begin PBXBuildFile section */
 		203D1D7A1FF5D17400FDC726 /* NumbersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203D1D791FF5D17400FDC726 /* NumbersViewController.swift */; };
 		203D1D7C1FF5D1BE00FDC726 /* ZeroTwentyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203D1D7B1FF5D1BE00FDC726 /* ZeroTwentyViewController.swift */; };
-		2055EDF01FD798A20032DF71 /* A.mov in Resources */ = {isa = PBXBuildFile; fileRef = 2055EDEF1FD798A20032DF71 /* A.mov */; };
-		2055EDF21FD798AE0032DF71 /* B.mov in Resources */ = {isa = PBXBuildFile; fileRef = 2055EDF11FD798AE0032DF71 /* B.mov */; };
-		2055EDF41FD798B70032DF71 /* C.mov in Resources */ = {isa = PBXBuildFile; fileRef = 2055EDF31FD798B70032DF71 /* C.mov */; };
 		2055EDF61FE203050032DF71 /* PetsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2055EDF51FE203040032DF71 /* PetsViewController.swift */; };
 		2071DE041FF6F59600BC8AEC /* TwentyOneThirtyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2071DE031FF6F59600BC8AEC /* TwentyOneThirtyViewController.swift */; };
 		2071DE061FF6F60700BC8AEC /* ThirtyOneFortyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2071DE051FF6F60700BC8AEC /* ThirtyOneFortyViewController.swift */; };
@@ -41,6 +38,11 @@
 		20E4890E1FD24BBC00DECA09 /* Tiger.mov in Resources */ = {isa = PBXBuildFile; fileRef = 20E4890D1FD24BAA00DECA09 /* Tiger.mov */; };
 		20E489101FD2524B00DECA09 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 20B05A1F1FC7C86500655E1F /* Info.plist */; };
 		20E489111FD2524C00DECA09 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 20B05A1F1FC7C86500655E1F /* Info.plist */; };
+		20F9BEC620042A5B00027C40 /* A.mov in Resources */ = {isa = PBXBuildFile; fileRef = 20F9BEC520042A5B00027C40 /* A.mov */; };
+		20F9BEC820042A6C00027C40 /* B.mov in Resources */ = {isa = PBXBuildFile; fileRef = 20F9BEC720042A6C00027C40 /* B.mov */; };
+		20F9BECA20042A7C00027C40 /* C.mov in Resources */ = {isa = PBXBuildFile; fileRef = 20F9BEC920042A7C00027C40 /* C.mov */; };
+		20F9BECC20042A8900027C40 /* D.mov in Resources */ = {isa = PBXBuildFile; fileRef = 20F9BECB20042A8900027C40 /* D.mov */; };
+		20F9BECE20042CF600027C40 /* E.mov in Resources */ = {isa = PBXBuildFile; fileRef = 20F9BECD20042CF600027C40 /* E.mov */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,9 +65,6 @@
 /* Begin PBXFileReference section */
 		203D1D791FF5D17400FDC726 /* NumbersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumbersViewController.swift; sourceTree = "<group>"; };
 		203D1D7B1FF5D1BE00FDC726 /* ZeroTwentyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZeroTwentyViewController.swift; sourceTree = "<group>"; };
-		2055EDEF1FD798A20032DF71 /* A.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = A.mov; path = ../A.mov; sourceTree = "<group>"; };
-		2055EDF11FD798AE0032DF71 /* B.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = B.mov; path = ../B.mov; sourceTree = "<group>"; };
-		2055EDF31FD798B70032DF71 /* C.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = C.mov; path = ../C.mov; sourceTree = "<group>"; };
 		2055EDF51FE203040032DF71 /* PetsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PetsViewController.swift; sourceTree = "<group>"; };
 		2071DE031FF6F59600BC8AEC /* TwentyOneThirtyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwentyOneThirtyViewController.swift; sourceTree = "<group>"; };
 		2071DE051FF6F60700BC8AEC /* ThirtyOneFortyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirtyOneFortyViewController.swift; sourceTree = "<group>"; };
@@ -99,6 +98,11 @@
 		20B05A451FC7C9D300655E1F /* ColorTools.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorTools.swift; sourceTree = "<group>"; };
 		20B05A471FC7CA8C00655E1F /* AnimalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalViewController.swift; sourceTree = "<group>"; };
 		20E4890D1FD24BAA00DECA09 /* Tiger.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Tiger.mov; sourceTree = "<group>"; };
+		20F9BEC520042A5B00027C40 /* A.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = A.mov; path = ../../A.mov; sourceTree = "<group>"; };
+		20F9BEC720042A6C00027C40 /* B.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = B.mov; path = ../../B.mov; sourceTree = "<group>"; };
+		20F9BEC920042A7C00027C40 /* C.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = C.mov; path = ../../C.mov; sourceTree = "<group>"; };
+		20F9BECB20042A8900027C40 /* D.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = D.mov; path = ../../D.mov; sourceTree = "<group>"; };
+		20F9BECD20042CF600027C40 /* E.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = E.mov; path = ../../E.mov; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,9 +133,11 @@
 		20B05A071FC7C86400655E1F = {
 			isa = PBXGroup;
 			children = (
-				2055EDF31FD798B70032DF71 /* C.mov */,
-				2055EDF11FD798AE0032DF71 /* B.mov */,
-				2055EDEF1FD798A20032DF71 /* A.mov */,
+				20F9BECD20042CF600027C40 /* E.mov */,
+				20F9BECB20042A8900027C40 /* D.mov */,
+				20F9BEC920042A7C00027C40 /* C.mov */,
+				20F9BEC720042A6C00027C40 /* B.mov */,
+				20F9BEC520042A5B00027C40 /* A.mov */,
 				20E4890D1FD24BAA00DECA09 /* Tiger.mov */,
 				20B05A121FC7C86500655E1F /* ASLApp */,
 				20B05A271FC7C86500655E1F /* ASLAppTests */,
@@ -341,9 +347,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2055EDF41FD798B70032DF71 /* C.mov in Resources */,
-				2055EDF21FD798AE0032DF71 /* B.mov in Resources */,
-				2055EDF01FD798A20032DF71 /* A.mov in Resources */,
+				20F9BECE20042CF600027C40 /* E.mov in Resources */,
+				20F9BECC20042A8900027C40 /* D.mov in Resources */,
+				20F9BECA20042A7C00027C40 /* C.mov in Resources */,
+				20F9BEC820042A6C00027C40 /* B.mov in Resources */,
+				20F9BEC620042A5B00027C40 /* A.mov in Resources */,
 				20E4890E1FD24BBC00DECA09 /* Tiger.mov in Resources */,
 				20B05A1E1FC7C86500655E1F /* LaunchScreen.storyboard in Resources */,
 				20B05A1B1FC7C86500655E1F /* Assets.xcassets in Resources */,
