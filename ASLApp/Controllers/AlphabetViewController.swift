@@ -146,7 +146,7 @@ class AlphabetViewController : UIViewController
     
     @IBAction func hVideoButton(_ sender: Any)
     {
-        if let path = Bundle.main.path(forResource: "G", ofType: "mov")
+        if let path = Bundle.main.path(forResource: "H", ofType: "mov")
         {
             // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))
@@ -272,7 +272,7 @@ class AlphabetViewController : UIViewController
     
     @IBAction func oVideoButton(_ sender: Any)
     {
-        if let path = Bundle.main.path(forResource: "o", ofType: "mov")
+        if let path = Bundle.main.path(forResource: "O", ofType: "mov")
         {
             // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))

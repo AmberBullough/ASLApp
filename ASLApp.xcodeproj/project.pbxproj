@@ -7,6 +7,43 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		202803192005991B00CAB8A9 /* T.mov in Resources */ = {isa = PBXBuildFile; fileRef = 2028030F2005987100CAB8A9 /* T.mov */; };
+		2028031A2005991B00CAB8A9 /* U.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803012005986900CAB8A9 /* U.mov */; };
+		2028031B2005991B00CAB8A9 /* V.mov in Resources */ = {isa = PBXBuildFile; fileRef = 2028030A2005986E00CAB8A9 /* V.mov */; };
+		2028031C2005991B00CAB8A9 /* W.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803102005987100CAB8A9 /* W.mov */; };
+		2028031D2005991B00CAB8A9 /* X.mov in Resources */ = {isa = PBXBuildFile; fileRef = 2028030C2005986F00CAB8A9 /* X.mov */; };
+		2028031E2005991B00CAB8A9 /* Y.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803162005987600CAB8A9 /* Y.mov */; };
+		2028031F2005991B00CAB8A9 /* Z.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202802FF2005986800CAB8A9 /* Z.mov */; };
+		202803202005991B00CAB8A9 /* Q.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803022005986900CAB8A9 /* Q.mov */; };
+		202803212005991B00CAB8A9 /* R.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803152005987500CAB8A9 /* R.mov */; };
+		202803222005991B00CAB8A9 /* S.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803142005987400CAB8A9 /* S.mov */; };
+		202803232005991B00CAB8A9 /* K.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803062005986B00CAB8A9 /* K.mov */; };
+		202803242005991B00CAB8A9 /* L.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803182005987700CAB8A9 /* L.mov */; };
+		202803252005991B00CAB8A9 /* M.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803072005986C00CAB8A9 /* M.mov */; };
+		202803262005991B00CAB8A9 /* N.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803082005986D00CAB8A9 /* N.mov */; };
+		202803272005991B00CAB8A9 /* O.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803122005987300CAB8A9 /* O.mov */; };
+		202803282005991B00CAB8A9 /* P.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803052005986B00CAB8A9 /* P.mov */; };
+		202803292005991B00CAB8A9 /* E.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803092005986D00CAB8A9 /* E.mov */; };
+		2028032A2005991B00CAB8A9 /* D.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803112005987200CAB8A9 /* D.mov */; };
+		2028032B2005991B00CAB8A9 /* C.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803042005986A00CAB8A9 /* C.mov */; };
+		2028032C2005991B00CAB8A9 /* B.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803002005986900CAB8A9 /* B.mov */; };
+		2028032D2005991B00CAB8A9 /* A.mov in Resources */ = {isa = PBXBuildFile; fileRef = 2028030D2005986F00CAB8A9 /* A.mov */; };
+		2028032E2005991B00CAB8A9 /* J.mov in Resources */ = {isa = PBXBuildFile; fileRef = 2028030E2005987000CAB8A9 /* J.mov */; };
+		2028032F2005991B00CAB8A9 /* I.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803132005987300CAB8A9 /* I.mov */; };
+		202803302005991B00CAB8A9 /* H.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803032005986A00CAB8A9 /* H.mov */; };
+		202803312005991B00CAB8A9 /* G.mov in Resources */ = {isa = PBXBuildFile; fileRef = 2028030B2005986E00CAB8A9 /* G.mov */; };
+		202803322005991B00CAB8A9 /* F.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803172005987600CAB8A9 /* F.mov */; };
+		20280336200599D700CAB8A9 /* Black.mov in Resources */ = {isa = PBXBuildFile; fileRef = 20280333200599D600CAB8A9 /* Black.mov */; };
+		20280337200599D700CAB8A9 /* Blue.mov in Resources */ = {isa = PBXBuildFile; fileRef = 20280334200599D600CAB8A9 /* Blue.mov */; };
+		20280338200599D700CAB8A9 /* Brown.mov in Resources */ = {isa = PBXBuildFile; fileRef = 20280335200599D700CAB8A9 /* Brown.mov */; };
+		2028033B200599E500CAB8A9 /* Grey.mov in Resources */ = {isa = PBXBuildFile; fileRef = 20280339200599E500CAB8A9 /* Grey.mov */; };
+		2028033C200599E500CAB8A9 /* Green.mov in Resources */ = {isa = PBXBuildFile; fileRef = 2028033A200599E500CAB8A9 /* Green.mov */; };
+		20280340200599F600CAB8A9 /* Purple.mov in Resources */ = {isa = PBXBuildFile; fileRef = 2028033D200599F500CAB8A9 /* Purple.mov */; };
+		20280341200599F600CAB8A9 /* Red.mov in Resources */ = {isa = PBXBuildFile; fileRef = 2028033E200599F500CAB8A9 /* Red.mov */; };
+		20280342200599F600CAB8A9 /* Pink.mov in Resources */ = {isa = PBXBuildFile; fileRef = 2028033F200599F600CAB8A9 /* Pink.mov */; };
+		2028034420059A0200CAB8A9 /* Orange.mov in Resources */ = {isa = PBXBuildFile; fileRef = 2028034320059A0200CAB8A9 /* Orange.mov */; };
+		2028034720059A0F00CAB8A9 /* Yellow.mov in Resources */ = {isa = PBXBuildFile; fileRef = 2028034520059A0E00CAB8A9 /* Yellow.mov */; };
+		2028034820059A0F00CAB8A9 /* White.mov in Resources */ = {isa = PBXBuildFile; fileRef = 2028034620059A0F00CAB8A9 /* White.mov */; };
 		203D1D7A1FF5D17400FDC726 /* NumbersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203D1D791FF5D17400FDC726 /* NumbersViewController.swift */; };
 		203D1D7C1FF5D1BE00FDC726 /* ZeroTwentyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203D1D7B1FF5D1BE00FDC726 /* ZeroTwentyViewController.swift */; };
 		2055EDF61FE203050032DF71 /* PetsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2055EDF51FE203040032DF71 /* PetsViewController.swift */; };
@@ -30,7 +67,6 @@
 		20B05A161FC7C86500655E1F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B05A151FC7C86500655E1F /* ViewController.swift */; };
 		20B05A191FC7C86500655E1F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20B05A171FC7C86500655E1F /* Main.storyboard */; };
 		20B05A1B1FC7C86500655E1F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20B05A1A1FC7C86500655E1F /* Assets.xcassets */; };
-		20B05A1E1FC7C86500655E1F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20B05A1C1FC7C86500655E1F /* LaunchScreen.storyboard */; };
 		20B05A291FC7C86500655E1F /* ASLAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B05A281FC7C86500655E1F /* ASLAppTests.swift */; };
 		20B05A341FC7C86500655E1F /* ASLAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B05A331FC7C86500655E1F /* ASLAppUITests.swift */; };
 		20B05A461FC7C9D300655E1F /* ColorTools.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B05A451FC7C9D300655E1F /* ColorTools.swift */; };
@@ -38,11 +74,6 @@
 		20E4890E1FD24BBC00DECA09 /* Tiger.mov in Resources */ = {isa = PBXBuildFile; fileRef = 20E4890D1FD24BAA00DECA09 /* Tiger.mov */; };
 		20E489101FD2524B00DECA09 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 20B05A1F1FC7C86500655E1F /* Info.plist */; };
 		20E489111FD2524C00DECA09 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 20B05A1F1FC7C86500655E1F /* Info.plist */; };
-		20F9BEC620042A5B00027C40 /* A.mov in Resources */ = {isa = PBXBuildFile; fileRef = 20F9BEC520042A5B00027C40 /* A.mov */; };
-		20F9BEC820042A6C00027C40 /* B.mov in Resources */ = {isa = PBXBuildFile; fileRef = 20F9BEC720042A6C00027C40 /* B.mov */; };
-		20F9BECA20042A7C00027C40 /* C.mov in Resources */ = {isa = PBXBuildFile; fileRef = 20F9BEC920042A7C00027C40 /* C.mov */; };
-		20F9BECC20042A8900027C40 /* D.mov in Resources */ = {isa = PBXBuildFile; fileRef = 20F9BECB20042A8900027C40 /* D.mov */; };
-		20F9BECE20042CF600027C40 /* E.mov in Resources */ = {isa = PBXBuildFile; fileRef = 20F9BECD20042CF600027C40 /* E.mov */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +94,43 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		202802FF2005986800CAB8A9 /* Z.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Z.mov; sourceTree = "<group>"; };
+		202803002005986900CAB8A9 /* B.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = B.mov; sourceTree = "<group>"; };
+		202803012005986900CAB8A9 /* U.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = U.mov; sourceTree = "<group>"; };
+		202803022005986900CAB8A9 /* Q.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Q.mov; sourceTree = "<group>"; };
+		202803032005986A00CAB8A9 /* H.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = H.mov; sourceTree = "<group>"; };
+		202803042005986A00CAB8A9 /* C.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = C.mov; sourceTree = "<group>"; };
+		202803052005986B00CAB8A9 /* P.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = P.mov; sourceTree = "<group>"; };
+		202803062005986B00CAB8A9 /* K.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = K.mov; sourceTree = "<group>"; };
+		202803072005986C00CAB8A9 /* M.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = M.mov; sourceTree = "<group>"; };
+		202803082005986D00CAB8A9 /* N.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = N.mov; sourceTree = "<group>"; };
+		202803092005986D00CAB8A9 /* E.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = E.mov; sourceTree = "<group>"; };
+		2028030A2005986E00CAB8A9 /* V.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = V.mov; sourceTree = "<group>"; };
+		2028030B2005986E00CAB8A9 /* G.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = G.mov; sourceTree = "<group>"; };
+		2028030C2005986F00CAB8A9 /* X.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = X.mov; sourceTree = "<group>"; };
+		2028030D2005986F00CAB8A9 /* A.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = A.mov; sourceTree = "<group>"; };
+		2028030E2005987000CAB8A9 /* J.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = J.mov; sourceTree = "<group>"; };
+		2028030F2005987100CAB8A9 /* T.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = T.mov; sourceTree = "<group>"; };
+		202803102005987100CAB8A9 /* W.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = W.mov; sourceTree = "<group>"; };
+		202803112005987200CAB8A9 /* D.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = D.mov; sourceTree = "<group>"; };
+		202803122005987300CAB8A9 /* O.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = O.mov; sourceTree = "<group>"; };
+		202803132005987300CAB8A9 /* I.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = I.mov; sourceTree = "<group>"; };
+		202803142005987400CAB8A9 /* S.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = S.mov; sourceTree = "<group>"; };
+		202803152005987500CAB8A9 /* R.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = R.mov; sourceTree = "<group>"; };
+		202803162005987600CAB8A9 /* Y.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Y.mov; sourceTree = "<group>"; };
+		202803172005987600CAB8A9 /* F.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = F.mov; sourceTree = "<group>"; };
+		202803182005987700CAB8A9 /* L.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = L.mov; sourceTree = "<group>"; };
+		20280333200599D600CAB8A9 /* Black.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = Black.mov; path = ../Black.mov; sourceTree = "<group>"; };
+		20280334200599D600CAB8A9 /* Blue.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = Blue.mov; path = ../Blue.mov; sourceTree = "<group>"; };
+		20280335200599D700CAB8A9 /* Brown.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = Brown.mov; path = ../Brown.mov; sourceTree = "<group>"; };
+		20280339200599E500CAB8A9 /* Grey.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = Grey.mov; path = ../Grey.mov; sourceTree = "<group>"; };
+		2028033A200599E500CAB8A9 /* Green.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = Green.mov; path = ../Green.mov; sourceTree = "<group>"; };
+		2028033D200599F500CAB8A9 /* Purple.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = Purple.mov; path = ../Purple.mov; sourceTree = "<group>"; };
+		2028033E200599F500CAB8A9 /* Red.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = Red.mov; path = ../Red.mov; sourceTree = "<group>"; };
+		2028033F200599F600CAB8A9 /* Pink.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = Pink.mov; path = ../Pink.mov; sourceTree = "<group>"; };
+		2028034320059A0200CAB8A9 /* Orange.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = Orange.mov; path = ../Orange.mov; sourceTree = "<group>"; };
+		2028034520059A0E00CAB8A9 /* Yellow.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = Yellow.mov; path = ../Yellow.mov; sourceTree = "<group>"; };
+		2028034620059A0F00CAB8A9 /* White.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = White.mov; path = ../White.mov; sourceTree = "<group>"; };
 		203D1D791FF5D17400FDC726 /* NumbersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumbersViewController.swift; sourceTree = "<group>"; };
 		203D1D7B1FF5D1BE00FDC726 /* ZeroTwentyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZeroTwentyViewController.swift; sourceTree = "<group>"; };
 		2055EDF51FE203040032DF71 /* PetsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PetsViewController.swift; sourceTree = "<group>"; };
@@ -87,7 +155,6 @@
 		20B05A151FC7C86500655E1F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		20B05A181FC7C86500655E1F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		20B05A1A1FC7C86500655E1F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		20B05A1D1FC7C86500655E1F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		20B05A1F1FC7C86500655E1F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		20B05A241FC7C86500655E1F /* ASLAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ASLAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		20B05A281FC7C86500655E1F /* ASLAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ASLAppTests.swift; sourceTree = "<group>"; };
@@ -98,11 +165,6 @@
 		20B05A451FC7C9D300655E1F /* ColorTools.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorTools.swift; sourceTree = "<group>"; };
 		20B05A471FC7CA8C00655E1F /* AnimalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalViewController.swift; sourceTree = "<group>"; };
 		20E4890D1FD24BAA00DECA09 /* Tiger.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Tiger.mov; sourceTree = "<group>"; };
-		20F9BEC520042A5B00027C40 /* A.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = A.mov; path = ../../A.mov; sourceTree = "<group>"; };
-		20F9BEC720042A6C00027C40 /* B.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = B.mov; path = ../../B.mov; sourceTree = "<group>"; };
-		20F9BEC920042A7C00027C40 /* C.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = C.mov; path = ../../C.mov; sourceTree = "<group>"; };
-		20F9BECB20042A8900027C40 /* D.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = D.mov; path = ../../D.mov; sourceTree = "<group>"; };
-		20F9BECD20042CF600027C40 /* E.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = E.mov; path = ../../E.mov; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -133,12 +195,44 @@
 		20B05A071FC7C86400655E1F = {
 			isa = PBXGroup;
 			children = (
-				20F9BECD20042CF600027C40 /* E.mov */,
-				20F9BECB20042A8900027C40 /* D.mov */,
-				20F9BEC920042A7C00027C40 /* C.mov */,
-				20F9BEC720042A6C00027C40 /* B.mov */,
-				20F9BEC520042A5B00027C40 /* A.mov */,
+				2028034620059A0F00CAB8A9 /* White.mov */,
+				2028034520059A0E00CAB8A9 /* Yellow.mov */,
+				2028034320059A0200CAB8A9 /* Orange.mov */,
+				2028033F200599F600CAB8A9 /* Pink.mov */,
+				2028033D200599F500CAB8A9 /* Purple.mov */,
+				2028033E200599F500CAB8A9 /* Red.mov */,
+				2028033A200599E500CAB8A9 /* Green.mov */,
+				20280339200599E500CAB8A9 /* Grey.mov */,
+				20280333200599D600CAB8A9 /* Black.mov */,
+				20280334200599D600CAB8A9 /* Blue.mov */,
+				20280335200599D700CAB8A9 /* Brown.mov */,
 				20E4890D1FD24BAA00DECA09 /* Tiger.mov */,
+				2028030F2005987100CAB8A9 /* T.mov */,
+				202803012005986900CAB8A9 /* U.mov */,
+				2028030A2005986E00CAB8A9 /* V.mov */,
+				202803102005987100CAB8A9 /* W.mov */,
+				2028030C2005986F00CAB8A9 /* X.mov */,
+				202803162005987600CAB8A9 /* Y.mov */,
+				202802FF2005986800CAB8A9 /* Z.mov */,
+				202803022005986900CAB8A9 /* Q.mov */,
+				202803152005987500CAB8A9 /* R.mov */,
+				202803142005987400CAB8A9 /* S.mov */,
+				202803062005986B00CAB8A9 /* K.mov */,
+				202803182005987700CAB8A9 /* L.mov */,
+				202803072005986C00CAB8A9 /* M.mov */,
+				202803082005986D00CAB8A9 /* N.mov */,
+				202803122005987300CAB8A9 /* O.mov */,
+				202803052005986B00CAB8A9 /* P.mov */,
+				202803092005986D00CAB8A9 /* E.mov */,
+				202803112005987200CAB8A9 /* D.mov */,
+				202803042005986A00CAB8A9 /* C.mov */,
+				202803002005986900CAB8A9 /* B.mov */,
+				2028030D2005986F00CAB8A9 /* A.mov */,
+				2028030E2005987000CAB8A9 /* J.mov */,
+				202803132005987300CAB8A9 /* I.mov */,
+				202803032005986A00CAB8A9 /* H.mov */,
+				2028030B2005986E00CAB8A9 /* G.mov */,
+				202803172005987600CAB8A9 /* F.mov */,
 				20B05A121FC7C86500655E1F /* ASLApp */,
 				20B05A271FC7C86500655E1F /* ASLAppTests */,
 				20B05A321FC7C86500655E1F /* ASLAppUITests */,
@@ -218,7 +312,6 @@
 			isa = PBXGroup;
 			children = (
 				20B05A171FC7C86500655E1F /* Main.storyboard */,
-				20B05A1C1FC7C86500655E1F /* LaunchScreen.storyboard */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -347,13 +440,44 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				20F9BECE20042CF600027C40 /* E.mov in Resources */,
-				20F9BECC20042A8900027C40 /* D.mov in Resources */,
-				20F9BECA20042A7C00027C40 /* C.mov in Resources */,
-				20F9BEC820042A6C00027C40 /* B.mov in Resources */,
-				20F9BEC620042A5B00027C40 /* A.mov in Resources */,
+				2028034720059A0F00CAB8A9 /* Yellow.mov in Resources */,
+				2028034820059A0F00CAB8A9 /* White.mov in Resources */,
+				2028034420059A0200CAB8A9 /* Orange.mov in Resources */,
+				20280340200599F600CAB8A9 /* Purple.mov in Resources */,
+				20280341200599F600CAB8A9 /* Red.mov in Resources */,
+				20280342200599F600CAB8A9 /* Pink.mov in Resources */,
+				2028033B200599E500CAB8A9 /* Grey.mov in Resources */,
+				2028033C200599E500CAB8A9 /* Green.mov in Resources */,
+				20280336200599D700CAB8A9 /* Black.mov in Resources */,
+				20280337200599D700CAB8A9 /* Blue.mov in Resources */,
+				20280338200599D700CAB8A9 /* Brown.mov in Resources */,
+				202803192005991B00CAB8A9 /* T.mov in Resources */,
+				2028031A2005991B00CAB8A9 /* U.mov in Resources */,
+				2028031B2005991B00CAB8A9 /* V.mov in Resources */,
+				2028031C2005991B00CAB8A9 /* W.mov in Resources */,
+				2028031D2005991B00CAB8A9 /* X.mov in Resources */,
+				2028031E2005991B00CAB8A9 /* Y.mov in Resources */,
+				2028031F2005991B00CAB8A9 /* Z.mov in Resources */,
+				202803202005991B00CAB8A9 /* Q.mov in Resources */,
+				202803212005991B00CAB8A9 /* R.mov in Resources */,
+				202803222005991B00CAB8A9 /* S.mov in Resources */,
+				202803232005991B00CAB8A9 /* K.mov in Resources */,
+				202803242005991B00CAB8A9 /* L.mov in Resources */,
+				202803252005991B00CAB8A9 /* M.mov in Resources */,
+				202803262005991B00CAB8A9 /* N.mov in Resources */,
+				202803272005991B00CAB8A9 /* O.mov in Resources */,
+				202803282005991B00CAB8A9 /* P.mov in Resources */,
+				202803292005991B00CAB8A9 /* E.mov in Resources */,
+				2028032A2005991B00CAB8A9 /* D.mov in Resources */,
+				2028032B2005991B00CAB8A9 /* C.mov in Resources */,
+				2028032C2005991B00CAB8A9 /* B.mov in Resources */,
+				2028032D2005991B00CAB8A9 /* A.mov in Resources */,
+				2028032E2005991B00CAB8A9 /* J.mov in Resources */,
+				2028032F2005991B00CAB8A9 /* I.mov in Resources */,
+				202803302005991B00CAB8A9 /* H.mov in Resources */,
+				202803312005991B00CAB8A9 /* G.mov in Resources */,
+				202803322005991B00CAB8A9 /* F.mov in Resources */,
 				20E4890E1FD24BBC00DECA09 /* Tiger.mov in Resources */,
-				20B05A1E1FC7C86500655E1F /* LaunchScreen.storyboard in Resources */,
 				20B05A1B1FC7C86500655E1F /* Assets.xcassets in Resources */,
 				20B05A191FC7C86500655E1F /* Main.storyboard in Resources */,
 			);
@@ -446,14 +570,6 @@
 				20B05A181FC7C86500655E1F /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		20B05A1C1FC7C86500655E1F /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				20B05A1D1FC7C86500655E1F /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */

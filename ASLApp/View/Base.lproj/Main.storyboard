@@ -983,7 +983,6 @@
                                 </state>
                                 <connections>
                                     <action selector="clickButton:" destination="cUg-Ua-gV8" eventType="touchUpInside" id="e6c-W1-Xt6"/>
-                                    <action selector="whiteVideoButton:" destination="cUg-Ua-gV8" eventType="touchUpInside" id="6y0-VS-r1B"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -2889,6 +2888,6 @@
         <segue reference="wbe-pc-4CV"/>
         <segue reference="dt6-EV-rdv"/>
         <segue reference="aB4-48-s4N"/>
-        <segue reference="E53-N0-EEE"/>
+        <segue reference="GZV-60-vAe"/>
     </inferredMetricsTieBreakers>
 </document>
