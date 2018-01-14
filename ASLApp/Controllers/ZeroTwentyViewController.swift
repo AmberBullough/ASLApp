@@ -255,10 +255,10 @@ class ZeroTwentyViewController : UIViewController
         }
     }
     
-    @IBAction func tweleveVideoButton(_ sender: Any)
+    @IBAction func twelveVideoButton(_ sender: Any)
     {
         //URL of the video
-        if let path = Bundle.main.path(forResource: "Tweleve", ofType: "mov")
+        if let path = Bundle.main.path(forResource: "Twelve", ofType: "mov")
         {
             // Accessing the video
             let video = AVPlayer(url: URL(fileURLWithPath: path))

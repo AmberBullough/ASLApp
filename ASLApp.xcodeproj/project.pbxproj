@@ -47,14 +47,25 @@
 		202803982008399800CAB8A9 /* One.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803972008399800CAB8A9 /* One.mov */; };
 		2028039A200839A900CAB8A9 /* Two.mov in Resources */ = {isa = PBXBuildFile; fileRef = 20280399200839A900CAB8A9 /* Two.mov */; };
 		2028039C200839B400CAB8A9 /* Zero.mov in Resources */ = {isa = PBXBuildFile; fileRef = 2028039B200839B400CAB8A9 /* Zero.mov */; };
-		2028039E2008477B00CAB8A9 /* Eight.mov in Resources */ = {isa = PBXBuildFile; fileRef = 2028039D2008477B00CAB8A9 /* Eight.mov */; };
-		202803A12008478A00CAB8A9 /* Four.mov in Resources */ = {isa = PBXBuildFile; fileRef = 2028039F2008478A00CAB8A9 /* Four.mov */; };
-		202803A22008478A00CAB8A9 /* Five.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803A02008478A00CAB8A9 /* Five.mov */; };
-		202803A52008479700CAB8A9 /* Seven.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803A32008479700CAB8A9 /* Seven.mov */; };
-		202803A62008479700CAB8A9 /* Six.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803A42008479700CAB8A9 /* Six.mov */; };
-		202803A8200847A700CAB8A9 /* Nine.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803A7200847A600CAB8A9 /* Nine.mov */; };
-		202803AA200847B900CAB8A9 /* Ten.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803A9200847B900CAB8A9 /* Ten.mov */; };
-		202803AC200847C500CAB8A9 /* Three.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803AB200847C500CAB8A9 /* Three.mov */; };
+		202803B7200BEC5000CAB8A9 /* Twenty.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803AD200BEC4F00CAB8A9 /* Twenty.mov */; };
+		202803B8200BEC5000CAB8A9 /* Seventeen.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803AE200BEC4F00CAB8A9 /* Seventeen.mov */; };
+		202803B9200BEC5000CAB8A9 /* Sixteen.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803AF200BEC4F00CAB8A9 /* Sixteen.mov */; };
+		202803BA200BEC5000CAB8A9 /* Fifteen.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803B0200BEC4F00CAB8A9 /* Fifteen.mov */; };
+		202803BB200BEC5000CAB8A9 /* Eleven.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803B1200BEC4F00CAB8A9 /* Eleven.mov */; };
+		202803BC200BEC5000CAB8A9 /* Thirteen.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803B2200BEC5000CAB8A9 /* Thirteen.mov */; };
+		202803BD200BEC5000CAB8A9 /* Eighteen.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803B3200BEC5000CAB8A9 /* Eighteen.mov */; };
+		202803BE200BEC5000CAB8A9 /* Fourteen.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803B4200BEC5000CAB8A9 /* Fourteen.mov */; };
+		202803BF200BEC5000CAB8A9 /* Nineteen.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803B5200BEC5000CAB8A9 /* Nineteen.mov */; };
+		202803C0200BEC5000CAB8A9 /* Twelve.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803B6200BEC5000CAB8A9 /* Twelve.mov */; };
+		202803C2200BEC8300CAB8A9 /* Eight.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803C1200BEC8300CAB8A9 /* Eight.mov */; };
+		202803C5200BEC9100CAB8A9 /* Five.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803C3200BEC9100CAB8A9 /* Five.mov */; };
+		202803C6200BEC9100CAB8A9 /* Four.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803C4200BEC9100CAB8A9 /* Four.mov */; };
+		202803C8200BEC9E00CAB8A9 /* Nine.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803C7200BEC9E00CAB8A9 /* Nine.mov */; };
+		202803CB200BECAE00CAB8A9 /* Six.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803C9200BECAE00CAB8A9 /* Six.mov */; };
+		202803CC200BECAE00CAB8A9 /* Seven.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803CA200BECAE00CAB8A9 /* Seven.mov */; };
+		202803CF200BECBC00CAB8A9 /* Ten.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803CD200BECBC00CAB8A9 /* Ten.mov */; };
+		202803D0200BECBC00CAB8A9 /* Three.mov in Resources */ = {isa = PBXBuildFile; fileRef = 202803CE200BECBC00CAB8A9 /* Three.mov */; };
+		202803D2200BF49B00CAB8A9 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 202803D1200BF49B00CAB8A9 /* WelcomeViewController.swift */; };
 		203D1D7A1FF5D17400FDC726 /* NumbersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203D1D791FF5D17400FDC726 /* NumbersViewController.swift */; };
 		203D1D7C1FF5D1BE00FDC726 /* ZeroTwentyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203D1D7B1FF5D1BE00FDC726 /* ZeroTwentyViewController.swift */; };
 		2055EDF61FE203050032DF71 /* PetsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2055EDF51FE203040032DF71 /* PetsViewController.swift */; };
@@ -144,14 +155,25 @@
 		202803972008399800CAB8A9 /* One.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = One.mov; sourceTree = "<group>"; };
 		20280399200839A900CAB8A9 /* Two.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Two.mov; sourceTree = "<group>"; };
 		2028039B200839B400CAB8A9 /* Zero.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Zero.mov; sourceTree = "<group>"; };
-		2028039D2008477B00CAB8A9 /* Eight.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = Eight.mov; path = ../../Eight.mov; sourceTree = "<group>"; };
-		2028039F2008478A00CAB8A9 /* Four.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = Four.mov; path = ../../Four.mov; sourceTree = "<group>"; };
-		202803A02008478A00CAB8A9 /* Five.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = Five.mov; path = ../../Five.mov; sourceTree = "<group>"; };
-		202803A32008479700CAB8A9 /* Seven.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = Seven.mov; path = ../../Seven.mov; sourceTree = "<group>"; };
-		202803A42008479700CAB8A9 /* Six.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = Six.mov; path = ../../Six.mov; sourceTree = "<group>"; };
-		202803A7200847A600CAB8A9 /* Nine.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = Nine.mov; path = ../../Nine.mov; sourceTree = "<group>"; };
-		202803A9200847B900CAB8A9 /* Ten.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = Ten.mov; path = ../../Ten.mov; sourceTree = "<group>"; };
-		202803AB200847C500CAB8A9 /* Three.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = Three.mov; path = ../../Three.mov; sourceTree = "<group>"; };
+		202803AD200BEC4F00CAB8A9 /* Twenty.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Twenty.mov; sourceTree = "<group>"; };
+		202803AE200BEC4F00CAB8A9 /* Seventeen.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Seventeen.mov; sourceTree = "<group>"; };
+		202803AF200BEC4F00CAB8A9 /* Sixteen.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Sixteen.mov; sourceTree = "<group>"; };
+		202803B0200BEC4F00CAB8A9 /* Fifteen.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Fifteen.mov; sourceTree = "<group>"; };
+		202803B1200BEC4F00CAB8A9 /* Eleven.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Eleven.mov; sourceTree = "<group>"; };
+		202803B2200BEC5000CAB8A9 /* Thirteen.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Thirteen.mov; sourceTree = "<group>"; };
+		202803B3200BEC5000CAB8A9 /* Eighteen.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Eighteen.mov; sourceTree = "<group>"; };
+		202803B4200BEC5000CAB8A9 /* Fourteen.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Fourteen.mov; sourceTree = "<group>"; };
+		202803B5200BEC5000CAB8A9 /* Nineteen.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Nineteen.mov; sourceTree = "<group>"; };
+		202803B6200BEC5000CAB8A9 /* Twelve.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Twelve.mov; sourceTree = "<group>"; };
+		202803C1200BEC8300CAB8A9 /* Eight.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Eight.mov; sourceTree = "<group>"; };
+		202803C3200BEC9100CAB8A9 /* Five.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Five.mov; sourceTree = "<group>"; };
+		202803C4200BEC9100CAB8A9 /* Four.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Four.mov; sourceTree = "<group>"; };
+		202803C7200BEC9E00CAB8A9 /* Nine.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Nine.mov; sourceTree = "<group>"; };
+		202803C9200BECAE00CAB8A9 /* Six.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Six.mov; sourceTree = "<group>"; };
+		202803CA200BECAE00CAB8A9 /* Seven.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Seven.mov; sourceTree = "<group>"; };
+		202803CD200BECBC00CAB8A9 /* Ten.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Ten.mov; sourceTree = "<group>"; };
+		202803CE200BECBC00CAB8A9 /* Three.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Three.mov; sourceTree = "<group>"; };
+		202803D1200BF49B00CAB8A9 /* WelcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
 		203D1D791FF5D17400FDC726 /* NumbersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumbersViewController.swift; sourceTree = "<group>"; };
 		203D1D7B1FF5D1BE00FDC726 /* ZeroTwentyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZeroTwentyViewController.swift; sourceTree = "<group>"; };
 		2055EDF51FE203040032DF71 /* PetsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PetsViewController.swift; sourceTree = "<group>"; };
@@ -215,14 +237,24 @@
 		20B05A071FC7C86400655E1F = {
 			isa = PBXGroup;
 			children = (
-				202803AB200847C500CAB8A9 /* Three.mov */,
-				202803A9200847B900CAB8A9 /* Ten.mov */,
-				202803A7200847A600CAB8A9 /* Nine.mov */,
-				202803A32008479700CAB8A9 /* Seven.mov */,
-				202803A42008479700CAB8A9 /* Six.mov */,
-				202803A02008478A00CAB8A9 /* Five.mov */,
-				2028039F2008478A00CAB8A9 /* Four.mov */,
-				2028039D2008477B00CAB8A9 /* Eight.mov */,
+				202803CD200BECBC00CAB8A9 /* Ten.mov */,
+				202803CE200BECBC00CAB8A9 /* Three.mov */,
+				202803CA200BECAE00CAB8A9 /* Seven.mov */,
+				202803C9200BECAE00CAB8A9 /* Six.mov */,
+				202803C7200BEC9E00CAB8A9 /* Nine.mov */,
+				202803C3200BEC9100CAB8A9 /* Five.mov */,
+				202803C4200BEC9100CAB8A9 /* Four.mov */,
+				202803C1200BEC8300CAB8A9 /* Eight.mov */,
+				202803B3200BEC5000CAB8A9 /* Eighteen.mov */,
+				202803B1200BEC4F00CAB8A9 /* Eleven.mov */,
+				202803B0200BEC4F00CAB8A9 /* Fifteen.mov */,
+				202803B4200BEC5000CAB8A9 /* Fourteen.mov */,
+				202803B5200BEC5000CAB8A9 /* Nineteen.mov */,
+				202803AE200BEC4F00CAB8A9 /* Seventeen.mov */,
+				202803AF200BEC4F00CAB8A9 /* Sixteen.mov */,
+				202803B2200BEC5000CAB8A9 /* Thirteen.mov */,
+				202803B6200BEC5000CAB8A9 /* Twelve.mov */,
+				202803AD200BEC4F00CAB8A9 /* Twenty.mov */,
 				2028039B200839B400CAB8A9 /* Zero.mov */,
 				20280399200839A900CAB8A9 /* Two.mov */,
 				202803972008399800CAB8A9 /* One.mov */,
@@ -334,6 +366,7 @@
 				2071DE1B1FFD977E00BC8AEC /* ColorsViewController.swift */,
 				2096D6A51FFFDF9700040092 /* PeopleViewController.swift */,
 				2096D6A71FFFEDC900040092 /* SchoolWorkersViewController.swift */,
+				202803D1200BF49B00CAB8A9 /* WelcomeViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -470,14 +503,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				202803AC200847C500CAB8A9 /* Three.mov in Resources */,
-				202803AA200847B900CAB8A9 /* Ten.mov in Resources */,
-				202803A8200847A700CAB8A9 /* Nine.mov in Resources */,
-				202803A52008479700CAB8A9 /* Seven.mov in Resources */,
-				202803A62008479700CAB8A9 /* Six.mov in Resources */,
-				202803A12008478A00CAB8A9 /* Four.mov in Resources */,
-				202803A22008478A00CAB8A9 /* Five.mov in Resources */,
-				2028039E2008477B00CAB8A9 /* Eight.mov in Resources */,
+				202803CF200BECBC00CAB8A9 /* Ten.mov in Resources */,
+				202803D0200BECBC00CAB8A9 /* Three.mov in Resources */,
+				202803CB200BECAE00CAB8A9 /* Six.mov in Resources */,
+				202803CC200BECAE00CAB8A9 /* Seven.mov in Resources */,
+				202803C8200BEC9E00CAB8A9 /* Nine.mov in Resources */,
+				202803C5200BEC9100CAB8A9 /* Five.mov in Resources */,
+				202803C6200BEC9100CAB8A9 /* Four.mov in Resources */,
+				202803C2200BEC8300CAB8A9 /* Eight.mov in Resources */,
+				202803B7200BEC5000CAB8A9 /* Twenty.mov in Resources */,
+				202803B8200BEC5000CAB8A9 /* Seventeen.mov in Resources */,
+				202803B9200BEC5000CAB8A9 /* Sixteen.mov in Resources */,
+				202803BA200BEC5000CAB8A9 /* Fifteen.mov in Resources */,
+				202803BB200BEC5000CAB8A9 /* Eleven.mov in Resources */,
+				202803BC200BEC5000CAB8A9 /* Thirteen.mov in Resources */,
+				202803BD200BEC5000CAB8A9 /* Eighteen.mov in Resources */,
+				202803BE200BEC5000CAB8A9 /* Fourteen.mov in Resources */,
+				202803BF200BEC5000CAB8A9 /* Nineteen.mov in Resources */,
+				202803C0200BEC5000CAB8A9 /* Twelve.mov in Resources */,
 				2028039C200839B400CAB8A9 /* Zero.mov in Resources */,
 				2028039A200839A900CAB8A9 /* Two.mov in Resources */,
 				202803982008399800CAB8A9 /* One.mov in Resources */,
@@ -555,6 +598,7 @@
 				20B05A461FC7C9D300655E1F /* ColorTools.swift in Sources */,
 				20B05A481FC7CA8C00655E1F /* AnimalViewController.swift in Sources */,
 				2096D6A81FFFEDC900040092 /* SchoolWorkersViewController.swift in Sources */,
+				202803D2200BF49B00CAB8A9 /* WelcomeViewController.swift in Sources */,
 				2071DE1C1FFD977E00BC8AEC /* ColorsViewController.swift in Sources */,
 				2071DE0E1FF6F8F200BC8AEC /* SeventyOneEightyViewController.swift in Sources */,
 				203D1D7C1FF5D1BE00FDC726 /* ZeroTwentyViewController.swift in Sources */,
