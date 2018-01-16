@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		20064A47200DA09A0010DA6C /* PhrasesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20064A46200DA09A0010DA6C /* PhrasesViewController.swift */; };
 		2028037220059D0C00CAB8A9 /* A.mov in Resources */ = {isa = PBXBuildFile; fileRef = 2028036620059CBD00CAB8A9 /* A.mov */; };
 		2028037320059D0C00CAB8A9 /* B.mov in Resources */ = {isa = PBXBuildFile; fileRef = 2028034D20059CB500CAB8A9 /* B.mov */; };
 		2028037420059D0C00CAB8A9 /* Black.mov in Resources */ = {isa = PBXBuildFile; fileRef = 2028035B20059CBB00CAB8A9 /* Black.mov */; };
@@ -115,6 +116,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		20064A46200DA09A0010DA6C /* PhrasesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhrasesViewController.swift; sourceTree = "<group>"; };
 		2028034D20059CB500CAB8A9 /* B.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = B.mov; sourceTree = "<group>"; };
 		2028034E20059CB600CAB8A9 /* Yellow.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Yellow.mov; sourceTree = "<group>"; };
 		2028034F20059CB600CAB8A9 /* Orange.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Orange.mov; sourceTree = "<group>"; };
@@ -367,6 +369,7 @@
 				2096D6A51FFFDF9700040092 /* PeopleViewController.swift */,
 				2096D6A71FFFEDC900040092 /* SchoolWorkersViewController.swift */,
 				202803D1200BF49B00CAB8A9 /* WelcomeViewController.swift */,
+				20064A46200DA09A0010DA6C /* PhrasesViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -596,6 +599,7 @@
 				20B05A161FC7C86500655E1F /* ViewController.swift in Sources */,
 				2071DE1A1FFB375F00BC8AEC /* FarmAnimalsViewController.swift in Sources */,
 				20B05A461FC7C9D300655E1F /* ColorTools.swift in Sources */,
+				20064A47200DA09A0010DA6C /* PhrasesViewController.swift in Sources */,
 				20B05A481FC7CA8C00655E1F /* AnimalViewController.swift in Sources */,
 				2096D6A81FFFEDC900040092 /* SchoolWorkersViewController.swift in Sources */,
 				202803D2200BF49B00CAB8A9 /* WelcomeViewController.swift in Sources */,
@@ -769,7 +773,7 @@
 		20B05A391FC7C86500655E1F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-1";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4NC76VH4H4;
 				INFOPLIST_FILE = "$(SRCROOT)/ASLApp/Rescources/Info.plist";
@@ -784,7 +788,7 @@
 		20B05A3A1FC7C86500655E1F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-1";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4NC76VH4H4;
 				INFOPLIST_FILE = "$(SRCROOT)/ASLApp/Rescources/Info.plist";
