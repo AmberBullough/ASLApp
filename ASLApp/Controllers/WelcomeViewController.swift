@@ -14,7 +14,7 @@ class WelcomeViewController : UIViewController
 {
     @IBAction func welcomeVideoVideoButton(_ sender: Any)
     {
-        if let path = Bundle.main.path(forResource: "WelcomeVideo", ofType: "mov")
+        if let path = Bundle.main.path(forResource: "WelcomeVideo", ofType: "mp4")
         {
             let video = AVPlayer(url: URL(fileURLWithPath: path))
             let videoPlayer = AVPlayerViewController()
