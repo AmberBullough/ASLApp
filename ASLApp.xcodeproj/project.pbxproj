@@ -71,6 +71,40 @@
 		203D1D7C1FF5D1BE00FDC726 /* ZeroTwentyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203D1D7B1FF5D1BE00FDC726 /* ZeroTwentyViewController.swift */; };
 		2055EDF61FE203050032DF71 /* PetsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2055EDF51FE203040032DF71 /* PetsViewController.swift */; };
 		205E17B72016B789008A8485 /* WelcomeVideo.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 205E17B62016B789008A8485 /* WelcomeVideo.mp4 */; };
+		205E17C02017FCB4008A8485 /* Fifty.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17B82017FCB3008A8485 /* Fifty.mov */; };
+		205E17C32017FCB4008A8485 /* Forty.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17BB2017FCB4008A8485 /* Forty.mov */; };
+		205E17C42017FCB4008A8485 /* ThirtyNine.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17BC2017FCB4008A8485 /* ThirtyNine.mov */; };
+		205E17C52017FCB4008A8485 /* ThirtySeven.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17BD2017FCB4008A8485 /* ThirtySeven.mov */; };
+		205E17C62017FCB4008A8485 /* FiftySix.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17BE2017FCB4008A8485 /* FiftySix.mov */; };
+		205E17C72017FCB4008A8485 /* ThirtySix.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17BF2017FCB4008A8485 /* ThirtySix.mov */; };
+		205E17CA20180166008A8485 /* ThirtyEight.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17C820180166008A8485 /* ThirtyEight.mov */; };
+		205E17CB20180166008A8485 /* ThirtyFive.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17C920180166008A8485 /* ThirtyFive.mov */; };
+		205E17D420194D70008A8485 /* TwentyNine.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17CC20194D6F008A8485 /* TwentyNine.mov */; };
+		205E17D520194D70008A8485 /* TwentyFour.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17CD20194D6F008A8485 /* TwentyFour.mov */; };
+		205E17D620194D70008A8485 /* TwentyTwo.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17CE20194D6F008A8485 /* TwentyTwo.mov */; };
+		205E17D720194D70008A8485 /* TwentySeven.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17CF20194D6F008A8485 /* TwentySeven.mov */; };
+		205E17D820194D70008A8485 /* Thirty.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17D020194D70008A8485 /* Thirty.mov */; };
+		205E17D920194D70008A8485 /* TwentySix.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17D120194D70008A8485 /* TwentySix.mov */; };
+		205E17DA20194D70008A8485 /* TwentyThree.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17D220194D70008A8485 /* TwentyThree.mov */; };
+		205E17DB20194D70008A8485 /* TwentyEight.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17D320194D70008A8485 /* TwentyEight.mov */; };
+		205E17E8201AAD8E008A8485 /* Bad.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17DC201AAD8D008A8485 /* Bad.mov */; };
+		205E17E9201AAD8E008A8485 /* MyName.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17DD201AAD8D008A8485 /* MyName.mov */; };
+		205E17EA201AAD8E008A8485 /* Sick.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17DE201AAD8D008A8485 /* Sick.mov */; };
+		205E17EB201AAD8E008A8485 /* Goodbye.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17DF201AAD8D008A8485 /* Goodbye.mov */; };
+		205E17EC201AAD8E008A8485 /* Good.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17E0201AAD8D008A8485 /* Good.mov */; };
+		205E17ED201AAD8E008A8485 /* Hello.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17E1201AAD8D008A8485 /* Hello.mov */; };
+		205E17EE201AAD8E008A8485 /* HowAreYou.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17E2201AAD8E008A8485 /* HowAreYou.mov */; };
+		205E17EF201AAD8E008A8485 /* Tired.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17E3201AAD8E008A8485 /* Tired.mov */; };
+		205E17F0201AAD8E008A8485 /* TwentyFive.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17E4201AAD8E008A8485 /* TwentyFive.mov */; };
+		205E17F1201AAD8E008A8485 /* TwentyOne.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17E5201AAD8E008A8485 /* TwentyOne.mov */; };
+		205E17F2201AAD8E008A8485 /* YoureWelcome.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17E6201AAD8E008A8485 /* YoureWelcome.mov */; };
+		205E17F3201AAD8E008A8485 /* ThankYou.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17E7201AAD8E008A8485 /* ThankYou.mov */; };
+		205E17FA201AB584008A8485 /* Grandpa.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17F4201AB583008A8485 /* Grandpa.mov */; };
+		205E17FB201AB584008A8485 /* Sister.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17F5201AB583008A8485 /* Sister.mov */; };
+		205E17FC201AB584008A8485 /* Brother.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17F6201AB583008A8485 /* Brother.mov */; };
+		205E17FD201AB584008A8485 /* Mom.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17F7201AB583008A8485 /* Mom.mov */; };
+		205E17FE201AB584008A8485 /* Dad.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17F8201AB583008A8485 /* Dad.mov */; };
+		205E17FF201AB584008A8485 /* Grandma.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17F9201AB584008A8485 /* Grandma.mov */; };
 		2071DE041FF6F59600BC8AEC /* TwentyOneThirtyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2071DE031FF6F59600BC8AEC /* TwentyOneThirtyViewController.swift */; };
 		2071DE061FF6F60700BC8AEC /* ThirtyOneFortyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2071DE051FF6F60700BC8AEC /* ThirtyOneFortyViewController.swift */; };
 		2071DE081FF6F70B00BC8AEC /* FortyOneFiftyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2071DE071FF6F70B00BC8AEC /* FortyOneFiftyViewController.swift */; };
@@ -82,7 +116,6 @@
 		2071DE141FFB220D00BC8AEC /* HundredTenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2071DE131FFB220D00BC8AEC /* HundredTenViewController.swift */; };
 		2071DE161FFB234000BC8AEC /* HundredsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2071DE151FFB234000BC8AEC /* HundredsViewController.swift */; };
 		2071DE181FFB236A00BC8AEC /* ThousandUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2071DE171FFB236A00BC8AEC /* ThousandUpViewController.swift */; };
-		2071DE1A1FFB375F00BC8AEC /* FarmAnimalsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2071DE191FFB375F00BC8AEC /* FarmAnimalsViewController.swift */; };
 		2071DE1C1FFD977E00BC8AEC /* ColorsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2071DE1B1FFD977E00BC8AEC /* ColorsViewController.swift */; };
 		207D5F4C1FC9E82500CB59A1 /* AlphabetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207D5F4B1FC9E82500CB59A1 /* AlphabetViewController.swift */; };
 		2096D6A61FFFDF9700040092 /* PeopleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2096D6A51FFFDF9700040092 /* PeopleViewController.swift */; };
@@ -186,6 +219,40 @@
 		203D1D7B1FF5D1BE00FDC726 /* ZeroTwentyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZeroTwentyViewController.swift; sourceTree = "<group>"; };
 		2055EDF51FE203040032DF71 /* PetsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PetsViewController.swift; sourceTree = "<group>"; };
 		205E17B62016B789008A8485 /* WelcomeVideo.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = WelcomeVideo.mp4; sourceTree = "<group>"; };
+		205E17B82017FCB3008A8485 /* Fifty.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Fifty.mov; sourceTree = "<group>"; };
+		205E17BB2017FCB4008A8485 /* Forty.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Forty.mov; sourceTree = "<group>"; };
+		205E17BC2017FCB4008A8485 /* ThirtyNine.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = ThirtyNine.mov; sourceTree = "<group>"; };
+		205E17BD2017FCB4008A8485 /* ThirtySeven.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = ThirtySeven.mov; sourceTree = "<group>"; };
+		205E17BE2017FCB4008A8485 /* FiftySix.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = FiftySix.mov; sourceTree = "<group>"; };
+		205E17BF2017FCB4008A8485 /* ThirtySix.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = ThirtySix.mov; sourceTree = "<group>"; };
+		205E17C820180166008A8485 /* ThirtyEight.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = ThirtyEight.mov; sourceTree = "<group>"; };
+		205E17C920180166008A8485 /* ThirtyFive.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = ThirtyFive.mov; sourceTree = "<group>"; };
+		205E17CC20194D6F008A8485 /* TwentyNine.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = TwentyNine.mov; sourceTree = "<group>"; };
+		205E17CD20194D6F008A8485 /* TwentyFour.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = TwentyFour.mov; sourceTree = "<group>"; };
+		205E17CE20194D6F008A8485 /* TwentyTwo.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = TwentyTwo.mov; sourceTree = "<group>"; };
+		205E17CF20194D6F008A8485 /* TwentySeven.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = TwentySeven.mov; sourceTree = "<group>"; };
+		205E17D020194D70008A8485 /* Thirty.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Thirty.mov; sourceTree = "<group>"; };
+		205E17D120194D70008A8485 /* TwentySix.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = TwentySix.mov; sourceTree = "<group>"; };
+		205E17D220194D70008A8485 /* TwentyThree.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = TwentyThree.mov; sourceTree = "<group>"; };
+		205E17D320194D70008A8485 /* TwentyEight.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = TwentyEight.mov; sourceTree = "<group>"; };
+		205E17DC201AAD8D008A8485 /* Bad.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Bad.mov; sourceTree = "<group>"; };
+		205E17DD201AAD8D008A8485 /* MyName.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = MyName.mov; sourceTree = "<group>"; };
+		205E17DE201AAD8D008A8485 /* Sick.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Sick.mov; sourceTree = "<group>"; };
+		205E17DF201AAD8D008A8485 /* Goodbye.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Goodbye.mov; sourceTree = "<group>"; };
+		205E17E0201AAD8D008A8485 /* Good.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Good.mov; sourceTree = "<group>"; };
+		205E17E1201AAD8D008A8485 /* Hello.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Hello.mov; sourceTree = "<group>"; };
+		205E17E2201AAD8E008A8485 /* HowAreYou.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = HowAreYou.mov; sourceTree = "<group>"; };
+		205E17E3201AAD8E008A8485 /* Tired.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Tired.mov; sourceTree = "<group>"; };
+		205E17E4201AAD8E008A8485 /* TwentyFive.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = TwentyFive.mov; sourceTree = "<group>"; };
+		205E17E5201AAD8E008A8485 /* TwentyOne.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = TwentyOne.mov; sourceTree = "<group>"; };
+		205E17E6201AAD8E008A8485 /* YoureWelcome.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = YoureWelcome.mov; sourceTree = "<group>"; };
+		205E17E7201AAD8E008A8485 /* ThankYou.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = ThankYou.mov; sourceTree = "<group>"; };
+		205E17F4201AB583008A8485 /* Grandpa.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Grandpa.mov; sourceTree = "<group>"; };
+		205E17F5201AB583008A8485 /* Sister.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Sister.mov; sourceTree = "<group>"; };
+		205E17F6201AB583008A8485 /* Brother.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Brother.mov; sourceTree = "<group>"; };
+		205E17F7201AB583008A8485 /* Mom.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Mom.mov; sourceTree = "<group>"; };
+		205E17F8201AB583008A8485 /* Dad.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Dad.mov; sourceTree = "<group>"; };
+		205E17F9201AB584008A8485 /* Grandma.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Grandma.mov; sourceTree = "<group>"; };
 		2071DE031FF6F59600BC8AEC /* TwentyOneThirtyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwentyOneThirtyViewController.swift; sourceTree = "<group>"; };
 		2071DE051FF6F60700BC8AEC /* ThirtyOneFortyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirtyOneFortyViewController.swift; sourceTree = "<group>"; };
 		2071DE071FF6F70B00BC8AEC /* FortyOneFiftyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FortyOneFiftyViewController.swift; sourceTree = "<group>"; };
@@ -197,7 +264,6 @@
 		2071DE131FFB220D00BC8AEC /* HundredTenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HundredTenViewController.swift; sourceTree = "<group>"; };
 		2071DE151FFB234000BC8AEC /* HundredsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HundredsViewController.swift; sourceTree = "<group>"; };
 		2071DE171FFB236A00BC8AEC /* ThousandUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThousandUpViewController.swift; sourceTree = "<group>"; };
-		2071DE191FFB375F00BC8AEC /* FarmAnimalsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FarmAnimalsViewController.swift; sourceTree = "<group>"; };
 		2071DE1B1FFD977E00BC8AEC /* ColorsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsViewController.swift; sourceTree = "<group>"; };
 		207D5F4B1FC9E82500CB59A1 /* AlphabetViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlphabetViewController.swift; sourceTree = "<group>"; };
 		2096D6A51FFFDF9700040092 /* PeopleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeopleViewController.swift; sourceTree = "<group>"; };
@@ -251,6 +317,40 @@
 		20B05A071FC7C86400655E1F = {
 			isa = PBXGroup;
 			children = (
+				205E17F6201AB583008A8485 /* Brother.mov */,
+				205E17F8201AB583008A8485 /* Dad.mov */,
+				205E17F9201AB584008A8485 /* Grandma.mov */,
+				205E17F4201AB583008A8485 /* Grandpa.mov */,
+				205E17F7201AB583008A8485 /* Mom.mov */,
+				205E17F5201AB583008A8485 /* Sister.mov */,
+				205E17DC201AAD8D008A8485 /* Bad.mov */,
+				205E17E0201AAD8D008A8485 /* Good.mov */,
+				205E17DF201AAD8D008A8485 /* Goodbye.mov */,
+				205E17E1201AAD8D008A8485 /* Hello.mov */,
+				205E17E2201AAD8E008A8485 /* HowAreYou.mov */,
+				205E17DD201AAD8D008A8485 /* MyName.mov */,
+				205E17DE201AAD8D008A8485 /* Sick.mov */,
+				205E17E7201AAD8E008A8485 /* ThankYou.mov */,
+				205E17E3201AAD8E008A8485 /* Tired.mov */,
+				205E17E4201AAD8E008A8485 /* TwentyFive.mov */,
+				205E17E5201AAD8E008A8485 /* TwentyOne.mov */,
+				205E17E6201AAD8E008A8485 /* YoureWelcome.mov */,
+				205E17D020194D70008A8485 /* Thirty.mov */,
+				205E17D320194D70008A8485 /* TwentyEight.mov */,
+				205E17CD20194D6F008A8485 /* TwentyFour.mov */,
+				205E17CC20194D6F008A8485 /* TwentyNine.mov */,
+				205E17CF20194D6F008A8485 /* TwentySeven.mov */,
+				205E17D120194D70008A8485 /* TwentySix.mov */,
+				205E17D220194D70008A8485 /* TwentyThree.mov */,
+				205E17CE20194D6F008A8485 /* TwentyTwo.mov */,
+				205E17C820180166008A8485 /* ThirtyEight.mov */,
+				205E17C920180166008A8485 /* ThirtyFive.mov */,
+				205E17B82017FCB3008A8485 /* Fifty.mov */,
+				205E17BE2017FCB4008A8485 /* FiftySix.mov */,
+				205E17BB2017FCB4008A8485 /* Forty.mov */,
+				205E17BC2017FCB4008A8485 /* ThirtyNine.mov */,
+				205E17BD2017FCB4008A8485 /* ThirtySeven.mov */,
+				205E17BF2017FCB4008A8485 /* ThirtySix.mov */,
 				205E17B62016B789008A8485 /* WelcomeVideo.mp4 */,
 				20AB8D8A2016A8F30028A999 /* ThirtyFour.mov */,
 				20AB8D8B2016A8F30028A999 /* ThirtyOne.mov */,
@@ -381,7 +481,6 @@
 				2071DE131FFB220D00BC8AEC /* HundredTenViewController.swift */,
 				2071DE151FFB234000BC8AEC /* HundredsViewController.swift */,
 				2071DE171FFB236A00BC8AEC /* ThousandUpViewController.swift */,
-				2071DE191FFB375F00BC8AEC /* FarmAnimalsViewController.swift */,
 				2071DE1B1FFD977E00BC8AEC /* ColorsViewController.swift */,
 				2096D6A51FFFDF9700040092 /* PeopleViewController.swift */,
 				2096D6A71FFFEDC900040092 /* SchoolWorkersViewController.swift */,
@@ -524,6 +623,40 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				205E17FA201AB584008A8485 /* Grandpa.mov in Resources */,
+				205E17FB201AB584008A8485 /* Sister.mov in Resources */,
+				205E17FC201AB584008A8485 /* Brother.mov in Resources */,
+				205E17FD201AB584008A8485 /* Mom.mov in Resources */,
+				205E17FE201AB584008A8485 /* Dad.mov in Resources */,
+				205E17FF201AB584008A8485 /* Grandma.mov in Resources */,
+				205E17E8201AAD8E008A8485 /* Bad.mov in Resources */,
+				205E17E9201AAD8E008A8485 /* MyName.mov in Resources */,
+				205E17EA201AAD8E008A8485 /* Sick.mov in Resources */,
+				205E17EB201AAD8E008A8485 /* Goodbye.mov in Resources */,
+				205E17EC201AAD8E008A8485 /* Good.mov in Resources */,
+				205E17ED201AAD8E008A8485 /* Hello.mov in Resources */,
+				205E17EE201AAD8E008A8485 /* HowAreYou.mov in Resources */,
+				205E17EF201AAD8E008A8485 /* Tired.mov in Resources */,
+				205E17F0201AAD8E008A8485 /* TwentyFive.mov in Resources */,
+				205E17F1201AAD8E008A8485 /* TwentyOne.mov in Resources */,
+				205E17F2201AAD8E008A8485 /* YoureWelcome.mov in Resources */,
+				205E17F3201AAD8E008A8485 /* ThankYou.mov in Resources */,
+				205E17D420194D70008A8485 /* TwentyNine.mov in Resources */,
+				205E17D520194D70008A8485 /* TwentyFour.mov in Resources */,
+				205E17D620194D70008A8485 /* TwentyTwo.mov in Resources */,
+				205E17D720194D70008A8485 /* TwentySeven.mov in Resources */,
+				205E17D820194D70008A8485 /* Thirty.mov in Resources */,
+				205E17D920194D70008A8485 /* TwentySix.mov in Resources */,
+				205E17DA20194D70008A8485 /* TwentyThree.mov in Resources */,
+				205E17DB20194D70008A8485 /* TwentyEight.mov in Resources */,
+				205E17CA20180166008A8485 /* ThirtyEight.mov in Resources */,
+				205E17CB20180166008A8485 /* ThirtyFive.mov in Resources */,
+				205E17C02017FCB4008A8485 /* Fifty.mov in Resources */,
+				205E17C32017FCB4008A8485 /* Forty.mov in Resources */,
+				205E17C42017FCB4008A8485 /* ThirtyNine.mov in Resources */,
+				205E17C52017FCB4008A8485 /* ThirtySeven.mov in Resources */,
+				205E17C62017FCB4008A8485 /* FiftySix.mov in Resources */,
+				205E17C72017FCB4008A8485 /* ThirtySix.mov in Resources */,
 				205E17B72016B789008A8485 /* WelcomeVideo.mp4 in Resources */,
 				20AB8D8D2016A8F30028A999 /* ThirtyThree.mov in Resources */,
 				20AB8D8E2016A8F30028A999 /* ThirtyFour.mov in Resources */,
@@ -621,7 +754,6 @@
 				2071DE121FF6F98B00BC8AEC /* NinetyOneHundredViewController.swift in Sources */,
 				2096D6A61FFFDF9700040092 /* PeopleViewController.swift in Sources */,
 				20B05A161FC7C86500655E1F /* ViewController.swift in Sources */,
-				2071DE1A1FFB375F00BC8AEC /* FarmAnimalsViewController.swift in Sources */,
 				20B05A461FC7C9D300655E1F /* ColorTools.swift in Sources */,
 				20064A47200DA09A0010DA6C /* PhrasesViewController.swift in Sources */,
 				20B05A481FC7CA8C00655E1F /* AnimalViewController.swift in Sources */,
