@@ -105,6 +105,19 @@
 		205E17FD201AB584008A8485 /* Mom.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17F7201AB583008A8485 /* Mom.mov */; };
 		205E17FE201AB584008A8485 /* Dad.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17F8201AB583008A8485 /* Dad.mov */; };
 		205E17FF201AB584008A8485 /* Grandma.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E17F9201AB584008A8485 /* Grandma.mov */; };
+		205E180B201C1CA7008A8485 /* Cat.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E1800201C1CA3008A8485 /* Cat.mov */; };
+		205E180C201C1CA7008A8485 /* Cousin.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E1801201C1CA3008A8485 /* Cousin.mov */; };
+		205E180D201C1CA7008A8485 /* Aunt.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E1802201C1CA3008A8485 /* Aunt.mov */; };
+		205E180E201C1CA7008A8485 /* Hamster.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E1803201C1CA4008A8485 /* Hamster.mov */; };
+		205E180F201C1CA7008A8485 /* Turtle.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E1804201C1CA4008A8485 /* Turtle.mov */; };
+		205E1810201C1CA7008A8485 /* Horse.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E1805201C1CA4008A8485 /* Horse.mov */; };
+		205E1811201C1CA7008A8485 /* Bird.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E1806201C1CA5008A8485 /* Bird.mov */; };
+		205E1812201C1CA7008A8485 /* Uncle.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E1807201C1CA5008A8485 /* Uncle.mov */; };
+		205E1813201C1CA7008A8485 /* Snake.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E1808201C1CA5008A8485 /* Snake.mov */; };
+		205E1814201C1CA7008A8485 /* Rabbit.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E1809201C1CA5008A8485 /* Rabbit.mov */; };
+		205E1815201C1CA7008A8485 /* Fish.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E180A201C1CA7008A8485 /* Fish.mov */; };
+		205E1817201C1CAE008A8485 /* Dog.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E1816201C1CAE008A8485 /* Dog.mov */; };
+		205E1819201C1E5E008A8485 /* Baby.mov in Resources */ = {isa = PBXBuildFile; fileRef = 205E1818201C1E5D008A8485 /* Baby.mov */; };
 		2071DE041FF6F59600BC8AEC /* TwentyOneThirtyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2071DE031FF6F59600BC8AEC /* TwentyOneThirtyViewController.swift */; };
 		2071DE061FF6F60700BC8AEC /* ThirtyOneFortyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2071DE051FF6F60700BC8AEC /* ThirtyOneFortyViewController.swift */; };
 		2071DE081FF6F70B00BC8AEC /* FortyOneFiftyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2071DE071FF6F70B00BC8AEC /* FortyOneFiftyViewController.swift */; };
@@ -253,6 +266,19 @@
 		205E17F7201AB583008A8485 /* Mom.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Mom.mov; sourceTree = "<group>"; };
 		205E17F8201AB583008A8485 /* Dad.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Dad.mov; sourceTree = "<group>"; };
 		205E17F9201AB584008A8485 /* Grandma.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Grandma.mov; sourceTree = "<group>"; };
+		205E1800201C1CA3008A8485 /* Cat.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Cat.mov; sourceTree = "<group>"; };
+		205E1801201C1CA3008A8485 /* Cousin.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Cousin.mov; sourceTree = "<group>"; };
+		205E1802201C1CA3008A8485 /* Aunt.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Aunt.mov; sourceTree = "<group>"; };
+		205E1803201C1CA4008A8485 /* Hamster.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Hamster.mov; sourceTree = "<group>"; };
+		205E1804201C1CA4008A8485 /* Turtle.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Turtle.mov; sourceTree = "<group>"; };
+		205E1805201C1CA4008A8485 /* Horse.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Horse.mov; sourceTree = "<group>"; };
+		205E1806201C1CA5008A8485 /* Bird.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Bird.mov; sourceTree = "<group>"; };
+		205E1807201C1CA5008A8485 /* Uncle.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Uncle.mov; sourceTree = "<group>"; };
+		205E1808201C1CA5008A8485 /* Snake.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Snake.mov; sourceTree = "<group>"; };
+		205E1809201C1CA5008A8485 /* Rabbit.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Rabbit.mov; sourceTree = "<group>"; };
+		205E180A201C1CA7008A8485 /* Fish.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Fish.mov; sourceTree = "<group>"; };
+		205E1816201C1CAE008A8485 /* Dog.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Dog.mov; sourceTree = "<group>"; };
+		205E1818201C1E5D008A8485 /* Baby.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Baby.mov; sourceTree = "<group>"; };
 		2071DE031FF6F59600BC8AEC /* TwentyOneThirtyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwentyOneThirtyViewController.swift; sourceTree = "<group>"; };
 		2071DE051FF6F60700BC8AEC /* ThirtyOneFortyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirtyOneFortyViewController.swift; sourceTree = "<group>"; };
 		2071DE071FF6F70B00BC8AEC /* FortyOneFiftyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FortyOneFiftyViewController.swift; sourceTree = "<group>"; };
@@ -317,6 +343,19 @@
 		20B05A071FC7C86400655E1F = {
 			isa = PBXGroup;
 			children = (
+				205E1818201C1E5D008A8485 /* Baby.mov */,
+				205E1816201C1CAE008A8485 /* Dog.mov */,
+				205E1802201C1CA3008A8485 /* Aunt.mov */,
+				205E1806201C1CA5008A8485 /* Bird.mov */,
+				205E1800201C1CA3008A8485 /* Cat.mov */,
+				205E1801201C1CA3008A8485 /* Cousin.mov */,
+				205E180A201C1CA7008A8485 /* Fish.mov */,
+				205E1803201C1CA4008A8485 /* Hamster.mov */,
+				205E1805201C1CA4008A8485 /* Horse.mov */,
+				205E1809201C1CA5008A8485 /* Rabbit.mov */,
+				205E1808201C1CA5008A8485 /* Snake.mov */,
+				205E1804201C1CA4008A8485 /* Turtle.mov */,
+				205E1807201C1CA5008A8485 /* Uncle.mov */,
 				205E17F6201AB583008A8485 /* Brother.mov */,
 				205E17F8201AB583008A8485 /* Dad.mov */,
 				205E17F9201AB584008A8485 /* Grandma.mov */,
@@ -623,6 +662,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				205E1819201C1E5E008A8485 /* Baby.mov in Resources */,
+				205E1817201C1CAE008A8485 /* Dog.mov in Resources */,
+				205E180B201C1CA7008A8485 /* Cat.mov in Resources */,
+				205E180C201C1CA7008A8485 /* Cousin.mov in Resources */,
+				205E180D201C1CA7008A8485 /* Aunt.mov in Resources */,
+				205E180E201C1CA7008A8485 /* Hamster.mov in Resources */,
+				205E180F201C1CA7008A8485 /* Turtle.mov in Resources */,
+				205E1810201C1CA7008A8485 /* Horse.mov in Resources */,
+				205E1811201C1CA7008A8485 /* Bird.mov in Resources */,
+				205E1812201C1CA7008A8485 /* Uncle.mov in Resources */,
+				205E1813201C1CA7008A8485 /* Snake.mov in Resources */,
+				205E1814201C1CA7008A8485 /* Rabbit.mov in Resources */,
+				205E1815201C1CA7008A8485 /* Fish.mov in Resources */,
 				205E17FA201AB584008A8485 /* Grandpa.mov in Resources */,
 				205E17FB201AB584008A8485 /* Sister.mov in Resources */,
 				205E17FC201AB584008A8485 /* Brother.mov in Resources */,
