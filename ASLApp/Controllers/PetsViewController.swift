@@ -132,4 +132,19 @@ class PetsViewController : UIViewController
             
         }
     }
+    
+    @IBAction func rabbitVideoButton(_ sender: Any)
+    {
+        if let path = Bundle.main.path(forResource: "Rabbit", ofType: "mov")
+        {
+            let video = AVPlayer(url: URL(fileURLWithPath: path))
+            let videoPlayer = AVPlayerViewController()
+            videoPlayer.player = video
+            present(videoPlayer, animated: true, completion:
+                {
+                    video.play()
+            })
+            
+        }
+    }
 }
