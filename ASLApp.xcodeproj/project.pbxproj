@@ -146,6 +146,7 @@
 		20B05A481FC7CA8C00655E1F /* AnimalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B05A471FC7CA8C00655E1F /* AnimalViewController.swift */; };
 		20E489101FD2524B00DECA09 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 20B05A1F1FC7C86500655E1F /* Info.plist */; };
 		20E489111FD2524C00DECA09 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 20B05A1F1FC7C86500655E1F /* Info.plist */; };
+		20ED3BAE2115F7720099B838 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20ED3BAD2115F7720099B838 /* Launch Screen.storyboard */; };
 		20F3DA63201181F000C244C6 /* FamilyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20F3DA62201181F000C244C6 /* FamilyViewController.swift */; };
 		20F3DA6720118E9400C244C6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20F3DA6620118E9400C244C6 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -311,6 +312,7 @@
 		20B05A351FC7C86500655E1F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		20B05A451FC7C9D300655E1F /* ColorTools.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorTools.swift; sourceTree = "<group>"; };
 		20B05A471FC7CA8C00655E1F /* AnimalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalViewController.swift; sourceTree = "<group>"; };
+		20ED3BAD2115F7720099B838 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 		20F3DA62201181F000C244C6 /* FamilyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FamilyViewController.swift; sourceTree = "<group>"; };
 		20F3DA6620118E9400C244C6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -534,6 +536,7 @@
 			isa = PBXGroup;
 			children = (
 				20B05A171FC7C86500655E1F /* Main.storyboard */,
+				20ED3BAD2115F7720099B838 /* Launch Screen.storyboard */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -694,6 +697,7 @@
 				205E17F2201AAD8E008A8485 /* YoureWelcome.mov in Resources */,
 				205E17F3201AAD8E008A8485 /* ThankYou.mov in Resources */,
 				205E17D420194D70008A8485 /* TwentyNine.mov in Resources */,
+				20ED3BAE2115F7720099B838 /* Launch Screen.storyboard in Resources */,
 				205E17D520194D70008A8485 /* TwentyFour.mov in Resources */,
 				205E17D620194D70008A8485 /* TwentyTwo.mov in Resources */,
 				205E17D720194D70008A8485 /* TwentySeven.mov in Resources */,
